@@ -129,6 +129,9 @@ EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns
 
 ## Metadata
 
+This document lives online at [simonliu.dev/markdown-cv/](https://simonliu.dev/markdown-cv/).
+- A downloadable version can be found at [simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/liu_cv.pdf).
+
 Inspired by [Benjamin Killeen](https://benjamindkilleen.com) and based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
 [David Whipp](https://davewhipp.github.io).
