@@ -116,7 +116,7 @@ EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns
 - \- EN.580.488 Foundations of Computational Biology and Bioinformatics
 
 
-## Extracurricular
+## Entrepreneurship
 
 `02/2021 - present`
 **Software Engineer**, *Rescon AI*, Baltimore, MD, USA.
