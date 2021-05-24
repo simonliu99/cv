@@ -22,7 +22,26 @@ I am a member of the [Neuroplastic Surgery Research Laboratory](https://www.snps
 
 `08/2017 - present`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD. (expected May 2021)
-- Completed major requirements for Computer Science
+- Also completed B.S. major requirements for Computer Science
+
+## Selected Honors
+
+`05/2020`
+**Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
+- [*COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*](https://h3dprint.org/covid19)
+- With Yunonne Bai, Jacob Feitelberg, Katherine Hu, Sahana Kumar, Kirby Leo, James Li, Christopher Shallal, and Nicholas Zhang
+
+`12/2020`
+**Intuitive Surgical [Best Project Award Runner Up](https://simonliu.dev/files/deep_awards.pdf)**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
+- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
+- With Fangchi Shao, Yixuan Huang, and Ameya Harmalkar.
+
+`11/2020`
+**Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
+- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
+
+`06/2017`
+**Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
 
 
 ## Research Experience
@@ -45,21 +64,6 @@ I am a member of the [Neuroplastic Surgery Research Laboratory](https://www.snps
 `02/2018 - 09/2018`
 **Research Assistant**, *Battle Lab, Johns Hopkins University*, Baltimore, MD, USA.
 - With [Alexis Battle](https://scholar.google.com/citations?user=yPOT9K0AAAAJ&hl=en&oi=ao) and Ben Strober
-
-
-## Selected Honors
-
-`12/2020`
-**Intuitive Surgical [Best Project Award Runner Up](https://simonliu.dev/files/deep_awards.pdf)**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-- With Fangchi Shao, Yixuan Huang, and Ameya Harmalkar.
-
-`11/2020`
-**Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-
-`06/2017`
-**Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
 
 
 ## Publications
@@ -89,6 +93,17 @@ Calabresi, Kaitlyn. **"[Interview with Health 3D](https://blog.tcolabs.org/healt
 Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"** *The Johns Hopkins News-Letter*. November 15, 2018.
 
 
+## Entrepreneurship
+
+`02/2021 - present`
+**Software Engineer**, *Rescon AI*, Baltimore, MD, USA.
+
+`04/2018 - present`
+**VP of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
+- \- Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
+- \- Manufactured COVID-19 PPE for the Johns Hopkins Health System ([feature article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)).
+
+
 ## Teaching
 
 ### Course Assistant
@@ -114,17 +129,6 @@ EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns
 - \- EN.580.481 Precision Care Medicine II
 - \- EN.580.485 Computational Medicine: Cardiology
 - \- EN.580.488 Foundations of Computational Biology and Bioinformatics
-
-
-## Entrepreneurship
-
-`02/2021 - present`
-**Software Engineer**, *Rescon AI*, Baltimore, MD, USA.
-
-`04/2018 - present`
-**VP of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
-- \- Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
-- \- Manufactured COVID-19 PPE for the Johns Hopkins Health System ([feature article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)).
 
 
 ## Metadata
