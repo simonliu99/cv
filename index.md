@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Simon Liu's CV
+title: Curriculum Vitae
 ---
 # Simon Liu
 <br>
@@ -64,29 +64,6 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 - With [Alexis Battle](https://scholar.google.com/citations?user=yPOT9K0AAAAJ&hl=en&oi=ao) and [Ben Strober](https://scholar.google.com/citations?user=nrRHpcwAAAAJ&hl=en)
 
 
-## Selected Honors
-
-`05/2021`
-**Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
-- [*COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*](https://h3dprint.org/covid19)
-- With Yunonne Bai, Jacob Feitelberg, Katherine Hu, Sahana Kumar, Kirby Leo, James Li, Christopher Shallal, and Nicholas Zhang
-
-`12/2020`
-**Intuitive Surgical [Best Project Award Runner Up](https://simonliu.dev/files/deep_awards.pdf)**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-- With Fangchi Shao, Yixuan Huang, and Ameya Harmalkar.
-
-`11/2020`
-**Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
-[[1]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
-[[2]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
-
-`06/2017`
-**Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
-
-
 ## Publications
 
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Publons](https://publons.com/researcher/4986544/simon-liu/).
@@ -116,6 +93,29 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 
 `P-1`
 Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. L., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2021). Neural networks for classification and image generation of aging in genetic syndromes. [https://doi.org/10.1101/2021.12.09.21267472](https://doi.org/10.1101/2021.12.09.21267472)
+
+
+## Selected Honors
+
+`05/2021`
+**Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
+- [*COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*](https://h3dprint.org/covid19)
+- With Yunonne Bai, Jacob Feitelberg, Katherine Hu, Sahana Kumar, Kirby Leo, James Li, Christopher Shallal, and Nicholas Zhang
+
+`12/2020`
+**Intuitive Surgical [Best Project Award Runner Up](https://simonliu.dev/files/deep_awards.pdf)**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
+- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
+- With Fangchi Shao, Yixuan Huang, and Ameya Harmalkar.
+
+`11/2020`
+**Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
+- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
+- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
+[[1]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
+[[2]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+
+`06/2017`
+**Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
 
 
 ## Selected Press
