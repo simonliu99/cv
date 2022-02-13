@@ -3,8 +3,15 @@ layout: cv
 title: Simon Liu's CV
 ---
 # Simon Liu
-<br/>
-Postbaccalaureate Fellow, National Human Genome Research Institute.
+<br>
+Postbaccalaureate Fellow, National Human Genome Research Institute.<br>
+<p>
+<small>
+NIHBC 10 - CRC BG RM 3-2551<br>
+10 Center Dr<br>
+Bethesda, MD 20892<br>
+</small>
+</p>
 
 <div id="webaddress">
   <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> -
@@ -18,7 +25,7 @@ Postbaccalaureate Fellow, National Human Genome Research Institute.
 
 ## Summary
 
-I am a postbaccalaureate fellow at the National Human Genome Research Institute with the Medical Genomics Unit interested in big data algorithms that improve patient outcomes.
+I am a postbaccalaureate fellow at the National Institutes of Health interested in deep learning algorithms that improve patient outcomes.
 My recent work involves applying natural language processing to public and private datasets to build models for extracting patient and language annotators.
 I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjamin-Solomon-MD) in the [National Human Genome Research Institute](https://genome.gov).
 
@@ -125,10 +132,11 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 <!-- `02/2021 - present`
 **Software Engineer**, *Rescon AI*, Baltimore, MD, USA. -->
 
-`04/2018 - present`
+`04/2018 - 05/2021`
 **VP of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
-- \- Oversaw manufacturing pipeline of COVID-19 PPE for the Johns Hopkins Health System during PPE shortages early pandemic ([feature article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)).
-- \- Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
+- Built up manufacturing arm of healthcare education venture.
+- Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
+- Oversaw manufacturing pipeline of COVID-19 PPE for the Johns Hopkins Health System ([feature article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)).
 
 
 ## Teaching
@@ -144,21 +152,19 @@ EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns
 
 ## Selected Coursework
 
-*Department of Computer Science*
-- \- EN.601.455 Computer Integrated Surgery I
-- \- EN.601.475 Machine Learning
-- \- EN.601.481 Machine Learning: Deep Learning
-- \- EN.601.496 Computer Integrated Surgery II
-
-
-*Department of Biomedical Engineering*
-- \- EN.580.424 Neuroengineering Lab
-- \- EN.580.452 Cell and Tissue Engineering Lab
-- \- EN.580.475 Biomedical Data Science
-- \- EN.580.480 Precision Care Medicine I
-- \- EN.580.481 Precision Care Medicine II
-- \- EN.580.485 Computational Medicine: Cardiology
-- \- EN.580.488 Foundations of Computational Biology and Bioinformatics
+### Undergraduate
+- Computer Integrated Surgery I <!-- EN.601.455 -->
+- Computer Integrated Surgery II <!-- EN.601.496 -->
+- Machine Learning <!-- EN.601.475 -->
+- Machine Learning: Deep Learning <!-- EN.601.481 -->
+- Neuroengineering Lab <!-- EN.580.424 -->
+- Cell and Tissue Engineering Lab <!-- EN.580.452 -->
+- Biomedical Data Science <!-- EN.580.475 -->
+- Precision Care Medicine I <!-- EN.580.480 -->
+- Precision Care Medicine II <!-- EN.580.481 -->
+- Computational Medicine: Cardiology <!-- EN.580.485 -->
+- Computational Medicine: Cardiology Lab
+- Foundations of Computational Biology and Bioinformatics <!-- EN.580.488 -->
 
 
 ## Metadata
