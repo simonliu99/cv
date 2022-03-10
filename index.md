@@ -25,17 +25,18 @@ Bethesda, MD 20892<br>
 
 ## Summary
 
-I am a postbaccalaureate fellow at the National Institutes of Health interested in deep learning algorithms that improve patient outcomes.
+I am a postbaccalaureate IRTA fellow at the National Institutes of Health interested in deep learning algorithms that improve patient outcomes.
 My recent work involves applying natural language processing to public and private datasets to build models for extracting patient and language annotators.
-I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjamin-Solomon-MD) in the [National Human Genome Research Institute](https://genome.gov).
+I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjamin-Solomon-MD) at the [National Human Genome Research Institute](https://genome.gov).
 
 
 ## Education
 
 `08/2017 - 05/2021`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
-- Focus on [Biomedical Data Science](https://www.bme.jhu.edu/academics/undergraduate/undergraduate-focus-areas-courses/biomedical-data-science-for-undergraduates/)
 - Also completed B.S. major requirements for Computer Science
+- Honors: [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), general honors, Dean's list
+- GPA: 3.69
 
 
 ## Research Experience
@@ -48,8 +49,8 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 **Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD, USA.
 - With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 - Received Provost's Undergraduate Research Award 2020-21
-[[1]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
-[[2]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+[[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
+[[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
 
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
@@ -89,10 +90,14 @@ Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERC
 `A-1`
 Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., **Liu, S.**, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., & Brant, S. R. (2020). Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6). <a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a>
 
-### Preprints
+### In Submission
+
+`P-2`
+Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [In submission]. \**Equal contributions.*
 
 `P-1`
-Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. L., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2021). Neural networks for classification and image generation of aging in genetic syndromes. [https://doi.org/10.1101/2021.12.09.21267472](https://doi.org/10.1101/2021.12.09.21267472)
+Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. L., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*. [Accepted]
+<!-- preprint [https://doi.org/10.1101/2021.12.09.21267472](https://doi.org/10.1101/2021.12.09.21267472) -->
 
 
 ## Selected Honors
@@ -100,19 +105,26 @@ Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. L., **Liu, S.**, Solomon, 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
 - [*COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*](https://h3dprint.org/covid19)
-- With Yunonne Bai, Jacob Feitelberg, Katherine Hu, Sahana Kumar, Kirby Leo, James Li, Christopher Shallal, and Nicholas Zhang
+- With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
 
 `12/2020`
-**Intuitive Surgical [Best Project Award Runner Up](https://simonliu.dev/files/deep_awards.pdf)**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
+**Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-- With Fangchi Shao, Yixuan Huang, and Ameya Harmalkar.
+[[report](https://simonliu.dev/files/liu_dl_final.pdf)]
+[[ppt](https://simonliu.dev/files/liu_dl_final_ppt.pdf)]
+[[award](https://simonliu.dev/files/liu_dl_award.pdf)]
+- With F. Shao, Y. Huang, and A. Harmalkar.
 
 `11/2020`
 **Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
 - With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
-[[1]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
-[[2]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+[[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
+[[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+
+`10/2020`
+**Upsilon Pi Epsilon**, *Johns Hopkins University*, Baltimore, MD, USA.
+- International Honor Society for the Computing and Information Disciplines
 
 `06/2017`
 **Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
@@ -136,21 +148,19 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 **Software Engineer**, *Rescon AI*, Baltimore, MD, USA. -->
 
 `04/2018 - 05/2021`
-**VP of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
-- Built up manufacturing arm of healthcare education venture.
+**Head of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
+- Built up manufacturing arm and online presence of healthcare education venture.
 - Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
-- Oversaw manufacturing pipeline of COVID-19 PPE for the Johns Hopkins Health System ([feature article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)).
+- Oversaw manufacturing pipeline of COVID-19 PPE for the Johns Hopkins Health System [[article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)].
 
 
 ## Teaching
 
-### Course Assistant
-
-`Sp 2021`
-EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
-
-`Fa 2020`
-EN.500.113 **Gateway Computing: Python**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
+`Fa 2020, Sp 2021`
+**Course Assistant**, Gateway Computing: Python, *Johns Hopkins University*, Baltimore, MD, USA.
+- Led workshops and weekly office hours
+- Graded students' projects and provided feedback
+- Held individual and group review sessions
 
 
 ## Selected Coursework
@@ -181,4 +191,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: February 2022<br/><br/>
+<br/>Last updated: March 2022<br/><br/>
