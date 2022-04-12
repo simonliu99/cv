@@ -71,6 +71,9 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
+`J-3`
+Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., &amp; Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*, 13. <a href="https://doi.org/10.3389/fgene.2022.864092">https://doi.org/10.3389/fgene.2022.864092</a>
+
 `J-2`
 Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199)
 
@@ -92,12 +95,8 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 
 ### In Submission
 
-`P-2`
-Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [In submission]. \**Equal contributions.*
-
 `P-1`
-Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. L., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*. [Accepted]
-<!-- preprint [https://doi.org/10.1101/2021.12.09.21267472](https://doi.org/10.1101/2021.12.09.21267472) -->
+Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [Accepted]. \**Equal contributions.*
 
 
 ## Selected Honors
