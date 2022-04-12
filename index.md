@@ -72,7 +72,7 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 ### Journal Articles
 
 `J-3`
-Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., &amp; Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*, 13. <a href="https://doi.org/10.3389/fgene.2022.864092">https://doi.org/10.3389/fgene.2022.864092</a>
+Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*. <a href="https://doi.org/10.3389/fgene.2022.864092">https://doi.org/10.3389/fgene.2022.864092</a>
 
 `J-2`
 Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199)
