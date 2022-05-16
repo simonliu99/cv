@@ -18,8 +18,10 @@ Bethesda, MD 20892<br>
   <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/mgb</a><br>
   <a href="mailto: simon@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
   <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br>
-  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> simonliu99</a> -
-  <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> 0000-0002-1182-5492</a><br>
+  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github/simonliu99</a> -
+  <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> orcid/0000-0002-1182-5492</a><br>
+  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> linkedin/simonliu99</a> -
+  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google/scholar</a>
 </div>
 
 
@@ -40,6 +42,10 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 
 
 ## Research Experience
+
+`10/2021 - present`
+**Care Coordinator**, *Pan Asian Volunteer Health Clinic, Chinese Culture and Community Service Center*, Gaithersburg, MD.
+- With [Kate Lu and Yaoyao Zhu](https://www.ccacchealth.org/staff)
 
 `07/2021 - present`
 **Postbaccalaureate Fellow**, *National Human Genome Research Institute*, Bethesda, MD.
@@ -95,15 +101,22 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 
 ### In Submission
 
-`P-1`
+`S-1`
 Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [Accepted]. \**Equal contributions.*
+
+
+## Presentations
+
+`P-1`
+**Liu, S.\***, Ledgister Hanchard, S.\*, Dwyer, M.C.\*, , Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. Poster presented at: NIH Virtual Postbac Poster Day 2022; Bethesda, MD. \**Equal contributions.* [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)]
 
 
 ## Selected Honors
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
-- [*COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*](https://h3dprint.org/covid19)
+- *Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*
+[[article](https://h3dprint.org/covid19)]
 - With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
 
 `12/2020`
@@ -117,9 +130,9 @@ Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang
 `11/2020`
 **Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 [[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
 [[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 
 `10/2020`
 **Upsilon Pi Epsilon**, *Johns Hopkins University*, Baltimore, MD, USA.
@@ -141,48 +154,32 @@ Calabresi, Kaitlyn. **"[Interview with Health 3D](https://blog.tcolabs.org/healt
 Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"** *The Johns Hopkins News-Letter*. November 15, 2018.
 
 
-## Entrepreneurship
-
-<!-- `02/2021 - present`
-**Software Engineer**, *Rescon AI*, Baltimore, MD, USA. -->
-
-`04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
-- Built up manufacturing arm and online presence of healthcare education venture.
-- Selected into [Social Innovation Lab 2018-2019 Cohort](https://ventures.jhu.edu/news/meet-the-2018-19-social-innovation-lab-cohort/) and [Spring 2020 FUEL Accelerator Cohort](https://ventures.jhu.edu/student-alumni-ventures/).
-- Oversaw manufacturing pipeline of COVID-19 PPE for the Johns Hopkins Health System [[article](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)].
-
-
-## Teaching
-
-`Fa 2020, Sp 2021`
-**Course Assistant**, Gateway Computing: Python, *Johns Hopkins University*, Baltimore, MD, USA.
-- Led workshops and weekly office hours
-- Graded students' projects and provided feedback
-- Held individual and group review sessions
-
-
 ## Selected Coursework
 
-### Undergraduate
+<!-- ### Undergraduate -->
 - Computer Integrated Surgery I <!-- EN.601.455 -->
 - Computer Integrated Surgery II <!-- EN.601.496 -->
 - Machine Learning <!-- EN.601.475 -->
 - Machine Learning: Deep Learning <!-- EN.601.481 -->
-- Neuroengineering Lab <!-- EN.580.424 -->
-- Cell and Tissue Engineering Lab <!-- EN.580.452 -->
 - Biomedical Data Science <!-- EN.580.475 -->
 - Precision Care Medicine I <!-- EN.580.480 -->
 - Precision Care Medicine II <!-- EN.580.481 -->
-- Computational Medicine: Cardiology <!-- EN.580.485 -->
-- Computational Medicine: Cardiology Lab
 - Foundations of Computational Biology and Bioinformatics <!-- EN.580.488 -->
+
+
+## Extracurricular Experience
+
+`08/2020 - 05/2021`
+**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
+
+`04/2018 - 05/2021`
+**Head of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
 
 
 ## Metadata
 
-This document lives online at [simonliu.dev/markdown-cv/](https://simonliu.dev/markdown-cv/).
-- A downloadable version can be found at [simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/liu_cv.pdf).
+This document lives online at [https://simonliu.dev/markdown-cv/](https://simonliu.dev/markdown-cv/).
+- A downloadable version can be found at [https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
@@ -190,4 +187,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: March 2022<br/><br/>
+<br/>Last updated: May 2022<br/><br/>
