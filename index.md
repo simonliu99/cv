@@ -87,10 +87,10 @@ Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngon
 Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*, 13. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
 
 `J-2`
-Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j2_delayed_microglial_depletion.pdf)]
+Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j1_proton_channel_hv1.pdf)]
 
 `J-1`
-Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j1_proton_channel_hv1.pdf)]
+Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j2_delayed_microglial_depletion.pdf)]
 
 ### Conference Papers
 
@@ -98,6 +98,9 @@ Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu
 Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., & Manbachi, A. (2020). Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. *Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520* (16 March 2020). [https://doi.org/10.1117/12.2548873](https://doi.org/10.1117/12.2548873) [[pdf](https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf)]
 
 ### Meeting Abstracts
+
+`A-3`
+Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S. & Goeddel, L. (2021). Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862. [https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
 
 `A-2`
 Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6). [https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) [[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
