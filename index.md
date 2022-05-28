@@ -117,7 +117,7 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 ## Presentations
 
 `P-1`
-**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., , Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. Poster presented at: NIH Virtual Postbac Poster Day 2022; Bethesda, MD. [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
+**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. Poster presented at: NIH Virtual Postbac Poster Day 2022; Bethesda, MD. [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
 
 
 ## Selected Honors
