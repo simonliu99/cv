@@ -193,7 +193,7 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 
 ## Metadata
 
-This document lives online at [https://simonliu.dev/markdown-cv/](https://simonliu.dev/markdown-cv/).
+This document lives online at [https://simonliu.dev/markdown-cv/](https://simonliu.dev/cv/).
 - A downloadable version can be found at [https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
