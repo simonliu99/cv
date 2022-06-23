@@ -81,7 +81,7 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 ### Journal Articles
 
 `J-4`
-Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Equal contributions.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
+Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
 
 `J-3`
 Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*, 13. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
