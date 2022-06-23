@@ -202,4 +202,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: May 2022<br/><br/>
+<br/>Last updated: June 2022<br/><br/>
