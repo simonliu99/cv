@@ -15,13 +15,13 @@ Bethesda, MD 20892<br>
 
 <div id="webaddress">
   <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> -
-  <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/mgb</a><br>
+  <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/medical.genetics.branch</a><br>
   <a href="mailto: simon@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
   <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br>
   <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github/simonliu99</a> -
   <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> orcid/0000-0002-1182-5492</a><br>
   <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> linkedin/simonliu99</a> -
-  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google/scholar</a>
+  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google.scholar</a>
 </div>
 
 
@@ -71,7 +71,7 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 
 `10/2021 - present`
 **Care Coordinator**, *Pan Asian Volunteer Health Clinic, Chinese Culture and Community Service Center*, Gaithersburg, MD.
-- With [Kate Lu and Yaoyao Zhu](https://www.ccacchealth.org/staff)
+- With [Drs. Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
 
 
 ## Publications
@@ -79,6 +79,9 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Publons](https://publons.com/researcher/4986544/simon-liu/).
 
 ### Journal Articles
+
+`J-5`
+Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., &amp; Brant, S. R. (2022). A systematic review of crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*. [https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
 
 `J-4`
 Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
@@ -107,11 +110,6 @@ Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERC
 
 `A-1`
 Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., **Liu, S.**, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., & Brant, S. R. (2020). Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6). <a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a> [[pdf](https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf)]
-
-<!-- ### In Submission -->
-
-<!-- `S-1` -->
-<!-- Ledgister Hanchard, S.\*, Dwyer, M.C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Scoping review and classification of deep learning in medical genetics. [Accepted]. \**Equal contributions.* -->
 
 
 ## Presentations
