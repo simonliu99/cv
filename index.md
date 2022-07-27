@@ -27,9 +27,11 @@ Bethesda, MD 20892<br>
 
 ## Summary
 
-I am a postbaccalaureate IRTA fellow at the National Institutes of Health interested in deep learning algorithms that improve patient outcomes.
-My recent work involves applying natural language processing to public and private datasets to build models for extracting patient and language annotators.
-I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjamin-Solomon-MD) at the [National Human Genome Research Institute](https://genome.gov).
+I am a postbaccalaureate IRTA fellow in the Medical Genomics Unit at the
+[<i class="fas fa-dna"></i> National Human Genome Research Institute](https://genome.gov),
+interested in deep learning algorithms that improve patient outcomes. My recent
+work involves applying natural language processing to public and private
+datasets to build models for extracting patient and language annotators.
 
 
 ## Education
@@ -37,7 +39,7 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 `08/2017 - 05/2021`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
-- Honors: [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), general honors, Dean's list
+- Honors: Joseph F. Strohecker Scholarship, [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & departmental honors
 - GPA: 3.69
 
 
@@ -49,29 +51,32 @@ I am a member of the [Medical Genomics Unit](https://www.genome.gov/staff/Benjam
 
 `02/2020 - 05/2021`
 **Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
+- With [Chad Gordon](https://www.hopkinsmedicine.org/profiles/details/chad-gordon).
 - Received Provost's Undergraduate Research Award 2020-21
 [[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
 [[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
 
+`12/2018 - 03/2020`
+**Research Analyst**, *School of Medicine, Johns Hopkins University*, Baltimore, MD, USA.
+- With [Susan Hutfless](https://publichealth.jhu.edu/faculty/3009/susan-hutfless)
+
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
 - With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/)
-
-`12/2018 - 03/2020`
-**Research Analyst**, *School of Medicine, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Susan Hutfless](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
-
-<!-- `02/2018 - 09/2018`
-**Research Assistant**, *Battle Lab, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Alexis Battle](https://scholar.google.com/citations?user=yPOT9K0AAAAJ&hl=en&oi=ao) and [Ben Strober](https://scholar.google.com/citations?user=nrRHpcwAAAAJ&hl=en) -->
 
 
 ## Volunteer Experience
 
 `10/2021 - present`
 **Care Coordinator**, *Pan Asian Volunteer Health Clinic, Chinese Culture and Community Service Center*, Gaithersburg, MD.
-- With [Drs. Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
+- With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
+
+
+## Teaching Experience
+
+`08/2020 - 05/2021`
+**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
+- With [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
 
 
 ## Publications
@@ -84,10 +89,10 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., &amp; Brant, S. R. (2022). A systematic review of crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*. [https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
 
 `J-4`
-Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.\***, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
+Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
 
 `J-3`
-Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics*, 13. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
+Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
 
 `J-2`
 Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j1_proton_channel_hv1.pdf)]
@@ -103,7 +108,7 @@ Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa
 ### Meeting Abstracts
 
 `A-3`
-Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S. & Goeddel, L. (2021). Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862. [https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
+Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021). Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862. [https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
 
 `A-2`
 Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6). [https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) [[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
@@ -145,6 +150,9 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 **Upsilon Pi Epsilon**, *Johns Hopkins University*, Baltimore, MD, USA.
 - International Honor Society for the Computing and Information Disciplines
 
+`11/2017`
+**Joseph F. Strohecker Scholarship**, *Johns Hopkins University*, Baltimore, MD, USA.
+
 `06/2017`
 **Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
 
@@ -176,9 +184,6 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 
 ## Extracurricular Experience
 
-`08/2020 - 05/2021`
-**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
-
 `11/2019 - 12/2020`
 **Vice President of Finance**, *Alpha Kappa Psi, Rho Psi Chapter*, Baltimore, MD, USA
 
@@ -200,4 +205,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: June 2022<br/><br/>
+<br/>Last updated: July 26, 2022<br/><br/>
