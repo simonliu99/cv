@@ -39,7 +39,7 @@ datasets to build models for extracting patient and language annotators.
 `08/2017 - 05/2021`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
-- Honors: Joseph F. Strohecker Scholarship, [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & departmental honors
+- Honors: Joseph F. Strohecker Scholarship, [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & BME/CS departmental honors
 - GPA: 3.69
 
 
@@ -85,8 +85,14 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
+`J-7`
+Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022). Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): a retrospective cohort analysis of United States Medicare Fee-For-Service claims, 2015–2021. *BMJ Open*. [accepted]
+
+`J-6`
+Sun, C., Han, Y., Zhang, R., **Liu, S.**, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., & Wang, J. (2022). Regulated necrosis in COVID-19: A double-edged sword. *Frontiers in Immunology, 13*. [https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) [[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
+
 `J-5`
-Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., &amp; Brant, S. R. (2022). A systematic review of crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*. [https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
+Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., & Brant, S. R. (2022). A systematic review of Crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*. [https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
 
 `J-4`
 Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
@@ -205,4 +211,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: July 26, 2022<br/><br/>
+<br/>Last updated: August 25, 2022<br/><br/>
