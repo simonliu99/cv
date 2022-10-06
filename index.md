@@ -30,8 +30,8 @@ Bethesda, MD 20892<br>
 I am a postbaccalaureate IRTA fellow in the Medical Genomics Unit at the
 [<i class="fas fa-dna"></i> National Human Genome Research Institute](https://genome.gov),
 interested in deep learning algorithms that improve patient outcomes. My recent
-work involves applying natural language processing to public and private
-datasets to build models for extracting patient and language annotators.
+work involves applying natural language processing to genetics datasets to build
+models for extracting patient and language annotators.
 
 
 ## Education
@@ -39,7 +39,8 @@ datasets to build models for extracting patient and language annotators.
 `08/2017 - 05/2021`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
-- Honors: Joseph F. Strohecker Scholarship, [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & BME/CS departmental honors
+- Linda Trinh Memorial Award, Joseph F. Strohecker Scholarship
+- Honors: [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & BME+CS departmental honors
 - GPA: 3.69
 
 
@@ -85,8 +86,11 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
+`J-8`
+Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022). Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38. [https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
+
 `J-7`
-Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022). Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): a retrospective cohort analysis of United States Medicare Fee-For-Service claims, 2015–2021. *BMJ Open*. [accepted]
+Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022). Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015–2021. *BMJ Open, 12*(9). [https://doi.org/10.1136/bmjopen-2022-065077](https://doi.org/10.1136/bmjopen-2022-065077) [[pdf](https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf)]
 
 `J-6`
 Sun, C., Han, Y., Zhang, R., **Liu, S.**, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., & Wang, J. (2022). Regulated necrosis in COVID-19: A double-edged sword. *Frontiers in Immunology, 13*. [https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) [[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
@@ -211,4 +215,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 25, 2022<br/><br/>
+<br/>Last updated: October 5, 2022<br/><br/>
