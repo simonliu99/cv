@@ -86,6 +86,9 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
+`J-9`
+Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*. [accepted]
+
 `J-8`
 Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022). Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38. [https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
 
@@ -130,10 +133,14 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 ## Presentations
 
 `P-1`
-**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. Poster presented at: NIH Virtual Postbac Poster Day 2022; Bethesda, MD. [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
+**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD. [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
 
 
 ## Selected Honors
+
+`11/2022`
+**Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
+- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf)]
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
@@ -215,4 +222,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: October 5, 2022<br/><br/>
+<br/>Last updated: November 8, 2022<br/><br/>
