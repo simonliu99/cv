@@ -16,7 +16,7 @@ Bethesda, MD 20892<br>
 <div id="webaddress">
   <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> -
   <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/medical.genetics.branch</a><br>
-  <a href="mailto: simon@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
+  <a href="mailto: simon+cv@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
   <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br>
   <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github/simonliu99</a> -
   <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> orcid/0000-0002-1182-5492</a><br>
@@ -35,6 +35,10 @@ models for extracting patient and language annotators.
 
 
 ## Education
+
+<!-- `08/2023 - present`
+**Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
+- DGSOM Scholarship for Excellence -->
 
 `08/2017 - 05/2021`
 **B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
@@ -82,12 +86,12 @@ models for extracting patient and language annotators.
 
 ## Publications
 
-A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Publons](https://publons.com/researcher/4986544/simon-liu/).
+A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Web of Science](https://www.webofscience.com/wos/author/record/2514221).
 
 ### Journal Articles
 
 `J-9`
-Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*. [accepted]
+Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*. [https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) [[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
 
 `J-8`
 Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022). Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38. [https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
@@ -108,10 +112,10 @@ Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngon
 Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
 
 `J-2`
-Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j1_proton_channel_hv1.pdf)]
+Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf)]
 
 `J-1`
-Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j2_delayed_microglial_depletion.pdf)]
+Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
 
 ### Conference Papers
 
@@ -140,7 +144,7 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 
 `11/2022`
 **Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf)]
+- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration [[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf#page=215)]
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
@@ -175,6 +179,9 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 
 
 ## Selected Press
+
+`2023`
+Liu, Simon. **"[Making an Impact Outside of the Laboratory](https://www.edi.nih.gov/blog/communities/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
 
 `2022`
 Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"** *Input Mag*. February 18, 2022.
