@@ -41,7 +41,7 @@ models for extracting patient and language annotators.
 - DGSOM Scholarship for Excellence -->
 
 `08/2017 - 05/2021`
-**B.S., Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
+**Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
 - Linda Trinh Memorial Award, Joseph F. Strohecker Scholarship
 - Honors: [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & BME+CS departmental honors
@@ -89,6 +89,9 @@ models for extracting patient and language annotators.
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Web of Science](https://www.webofscience.com/wos/author/record/2514221).
 
 ### Journal Articles
+
+`J-10`
+Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023). T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. *Pharmacological Research*, 192, 106797. [https://doi.org/10.1016/j.phrs.2023.106797](https://doi.org/10.1016/j.phrs.2023.106797) [[pdf](https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf)]
 
 `J-9`
 Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*. [https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) [[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
@@ -229,4 +232,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: November 8, 2022<br/><br/>
+<br/>Last updated: May 25, 2023<br/><br/>
