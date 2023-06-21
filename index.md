@@ -4,18 +4,17 @@ title: Curriculum Vitae
 ---
 # Simon Liu
 <br>
-Postbaccalaureate Fellow, National Human Genome Research Institute.<br>
+Incoming Medical Student, David Geffen School of Medicine, University of California Los Angeles.<br>
 <p>
 <small>
-NIHBC 10 - CRC BG RM 3-2551<br>
-10 Center Dr<br>
-Bethesda, MD 20892<br>
+10833 Le Conte Ave<br>
+Los Angeles, CA 90095<br>
 </small>
 </p>
 
 <div id="webaddress">
-  <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> -
-  <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/medical.genetics.branch</a><br>
+  <!-- <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> - -->
+  <!-- <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/medical.genetics.branch</a><br> -->
   <a href="mailto: simon+cv@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
   <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br>
   <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github/simonliu99</a> -
@@ -27,30 +26,32 @@ Bethesda, MD 20892<br>
 
 ## Summary
 
-I am a postbaccalaureate IRTA fellow in the Medical Genomics Unit at the
-[<i class="fas fa-dna"></i> National Human Genome Research Institute](https://genome.gov),
-interested in deep learning algorithms that improve patient outcomes. My recent
-work involves applying natural language processing to genetics datasets to build
-models for extracting patient and language annotators.
+I am an incoming MS1 at the David Geffen School of Medicine at the University of
+California Los Angeles, interested in the application of deep learning algorithms
+to improve patient diagnostic and therapeutic outcomes. My recent work involves
+applying natural language processing and image classification to medical genetics
+datasets.
 
 
 ## Education
 
-<!-- `08/2023 - present`
+`08/2023 - present`
 **Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
-- DGSOM Scholarship for Excellence -->
+- DGSOM Scholarship for Excellence
 
 `08/2017 - 05/2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
-- Linda Trinh Memorial Award, Joseph F. Strohecker Scholarship
-- Honors: [Upsilon Pi Epsilon](https://upe.cs.jhu.edu), Dean's list, general & BME+CS departmental honors
+- Linda Trinh Memorial Award, Provost’s Undergraduate Research Award, Joseph F. Strohecker Scholarship
+- Honors: Upsilon Pi Epsilon, Dean's list, general & BME+CS departmental honors
 - GPA: 3.69
 
 
-## Research Experience
+## Experience
 
-`07/2021 - present`
+### Research
+
+`07/2021 - 07/2023`
 **Postbaccalaureate Fellow**, *National Human Genome Research Institute*, Bethesda, MD.
 - With [Benjamin Solomon](https://www.genome.gov/staff/Benjamin-Solomon-MD)
 
@@ -69,19 +70,28 @@ models for extracting patient and language annotators.
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
 - With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/)
 
+### Volunteering
 
-## Volunteer Experience
-
-`10/2021 - present`
-**Care Coordinator**, *Pan Asian Volunteer Health Clinic, Chinese Culture and Community Service Center*, Gaithersburg, MD.
+`10/2021 - 07/2023`
+**Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*Chinese Culture and Community Service Center*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
 - With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
 
-
-## Teaching Experience
+### Teaching
 
 `08/2020 - 05/2021`
 **Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
 - With [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
+
+### Leadership
+
+`11/2019 - 12/2020`
+**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+
+`05/2019 - 11/2019`
+**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+
+`04/2018 - 05/2021`
+**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
 
 
 ## Publications
@@ -91,63 +101,96 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 ### Journal Articles
 
 `J-10`
-Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023). T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. *Pharmacological Research*, 192, 106797. [https://doi.org/10.1016/j.phrs.2023.106797](https://doi.org/10.1016/j.phrs.2023.106797) [[pdf](https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf)]
+Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023).
+T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. *Pharmacological Research*, 192, 106797.
+[https://doi.org/10.1016/j.phrs.2023.106797](https://doi.org/10.1016/j.phrs.2023.106797) [[pdf](https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf)]
 
 `J-9`
-Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*. [https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) [[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
+Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022).
+Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*.
+[https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) [[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
 
 `J-8`
-Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022). Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38. [https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
+Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022).
+Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38.
+[https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
 
 `J-7`
-Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022). Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015–2021. *BMJ Open, 12*(9). [https://doi.org/10.1136/bmjopen-2022-065077](https://doi.org/10.1136/bmjopen-2022-065077) [[pdf](https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf)]
+Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022).
+Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015–2021. *BMJ Open, 12*(9).
+[https://doi.org/10.1136/bmjopen-2022-065077](https://doi.org/10.1136/bmjopen-2022-065077) [[pdf](https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf)]
 
 `J-6`
-Sun, C., Han, Y., Zhang, R., **Liu, S.**, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., & Wang, J. (2022). Regulated necrosis in COVID-19: A double-edged sword. *Frontiers in Immunology, 13*. [https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) [[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
+Sun, C., Han, Y., Zhang, R., **Liu, S.**, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., & Wang, J. (2022).
+Regulated necrosis in COVID-19: A double-edged sword. *Frontiers in Immunology, 13*.
+[https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) [[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
 
 `J-5`
-Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., & Brant, S. R. (2022). A systematic review of Crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*. [https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
+Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., & Brant, S. R. (2022).
+A systematic review of Crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*.
+[https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
 
 `J-4`
-Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*. [https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
+Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022).
+Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*.
+[https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
 
 `J-3`
-Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*. [https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
+Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022).
+Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*.
+[https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
 
 `J-2`
-Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283. [https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf)]
+Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021).
+The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283.
+[https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf)]
 
 `J-1`
-Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403. [https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
+Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020).
+Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403.
+[https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
 
 ### Conference Papers
 
 `C-1`
-Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., & Manbachi, A. (2020). Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. *Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520* (16 March 2020). [https://doi.org/10.1117/12.2548873](https://doi.org/10.1117/12.2548873) [[pdf](https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf)]
+Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., & Manbachi, A. (2020).
+Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. *Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520* (16 March 2020).
+[https://doi.org/10.1117/12.2548873](https://doi.org/10.1117/12.2548873) [[pdf](https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf)]
 
 ### Meeting Abstracts
 
 `A-3`
-Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021). Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862. [https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
+Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021).
+Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862.
+[https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
 
 `A-2`
-Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6). [https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) [[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
+Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6).
+[https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) [[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
 
 `A-1`
-Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., **Liu, S.**, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., & Brant, S. R. (2020). Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6). <a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a> [[pdf](https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf)]
+Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., **Liu, S.**, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., & Brant, S. R. (2020).
+Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6).
+<a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a> [[pdf](https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf)]
 
 
 ## Presentations
 
+`P-2`
+**Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
+[[pdf](https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf)] [[pic](https://simonliu.dev/files/cv/liu_p2_certificate.jpg)]
+
 `P-1`
-**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD. [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
+**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD.
+[[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)] <!-- [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] -->
 
 
 ## Selected Honors
 
 `11/2022`
 **Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration [[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf#page=215)]
+- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
+[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf#page=215)]
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
@@ -158,16 +201,13 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 `12/2020`
 **Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)]
-[[ppt](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)]
-[[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
+[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] [[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] [[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
 - With F. Shao, Y. Huang, and A. Harmalkar.
 
 `11/2020`
 **Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-[[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
-[[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)] [[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
 - With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 
 `10/2020`
@@ -184,13 +224,13 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 ## Selected Press
 
 `2023`
-Liu, Simon. **"[Making an Impact Outside of the Laboratory](https://www.edi.nih.gov/blog/communities/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
+Liu, Simon. **"[Making an Impact Outside of the Laboratory.](https://www.edi.nih.gov/blog/communities/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
 
 `2022`
-Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"** *Input Mag*. February 18, 2022.
+Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"** *Input Mag*. February 18, 2022.
 
 `2019`
-Calabresi, Kaitlyn. **"[Interview with Health 3D](https://blog.tcolabs.org/health3d-interview-a933be08cfc4)"** *TCO Labs*. November 20, 2019.
+Calabresi, Kaitlyn. **"[Interview with Health 3D.](https://blog.tcolabs.org/health3d-interview-a933be08cfc4)"** *TCO Labs*. November 20, 2019.
 
 `2018`
 Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"** *The Johns Hopkins News-Letter*. November 15, 2018.
@@ -198,33 +238,32 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 
 ## Selected Coursework
 
-<!-- ### Undergraduate -->
-- Computer Integrated Surgery I <!-- EN.601.455 -->
-- Computer Integrated Surgery II <!-- EN.601.496 -->
-- Machine Learning <!-- EN.601.475 -->
-- Machine Learning: Deep Learning <!-- EN.601.481 -->
-- Biomedical Data Science <!-- EN.580.475 -->
-- Precision Care Medicine I <!-- EN.580.480 -->
-- Precision Care Medicine II <!-- EN.580.481 -->
-- Foundations of Computational Biology and Bioinformatics <!-- EN.580.488 -->
+### National Institutes of Health
+BIOF398.81 Practical Deep Learning
 
+### Johns Hopkins University
+EN.580.475 Biomedical Data Science <!-- EN.580.475 -->
 
-## Extracurricular Experience
+EN.580.480 Precision Care Medicine I <!-- EN.580.480 -->
 
-`11/2019 - 12/2020`
-**Vice President of Finance**, *Alpha Kappa Psi, Rho Psi Chapter*, Baltimore, MD, USA
+EN.580.481 Precision Care Medicine II <!-- EN.580.481 -->
 
-`05/2019 - 11/2019`
-**Pledge Educator**, *Alpha Kappa Psi, Rho Psi Chapter*, Baltimore, MD, USA
+EN.580.488 Foundations of Computational Biology and Bioinformatics <!-- EN.580.488 -->
 
-`04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://h3dprint.org), Baltimore, MD, USA.
+EN.601.455 Computer Integrated Surgery I <!-- EN.601.455 -->
+
+EN.601.496 Computer Integrated Surgery II <!-- EN.601.496 -->
+
+EN.601.475 Machine Learning <!-- EN.601.475 -->
+
+EN.601.481 Machine Learning: Deep Learning <!-- EN.601.481 -->
 
 
 ## Metadata
 
 This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv/).
-- A downloadable version can be found at [https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
+- A downloadable version can be found at
+[https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
@@ -232,4 +271,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: May 25, 2023<br/><br/>
+<br/>Last updated: June 20, 2023<br/><br/>
