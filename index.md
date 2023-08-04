@@ -187,6 +187,12 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 ## Selected Honors
 
+`07/2023`
+**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
+
+`03/2023`
+**Scholarship for Excellence**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
+
 `11/2022`
 **Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
 - Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
