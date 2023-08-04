@@ -4,29 +4,29 @@ title: Curriculum Vitae
 ---
 # Simon Liu
 <br>
-Incoming Medical Student, David Geffen School of Medicine, University of California Los Angeles.<br>
-<p>
+Medical Student, David Geffen School of Medicine, University of California Los Angeles.
+<!-- <br> -->
+<!-- <p>
 <small>
 10833 Le Conte Ave<br>
 Los Angeles, CA 90095<br>
 </small>
-</p>
+</p> -->
 
 <div id="webaddress">
-  <!-- <a href="mailto: simon.liu@nih.gov"><i class="fas fa-building"></i> simon.liu@nih.gov</a> - -->
-  <!-- <a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Medical-Genetics-Branch"><i class="fas fa-dna"></i> nhgri/medical.genetics.branch</a><br> -->
-  <a href="mailto: simon+cv@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> -
-  <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br>
-  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github/simonliu99</a> -
-  <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> orcid/0000-0002-1182-5492</a><br>
-  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> linkedin/simonliu99</a> -
-  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google.scholar</a>
+  <!-- <a href="mailto: simon+cv@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> | -->
+  <a href="mailto: simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
+  <!-- <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br> -->
+  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> simonliu99</a> |
+  <!-- <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> 0000-0002-1182-5492</a><br> -->
+  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> simonliu99</a>
+  <!-- <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google.scholar</a> -->
 </div>
 
 
 ## Summary
 
-I am an incoming MS1 at the David Geffen School of Medicine at the University of
+I am a MS1 at the David Geffen School of Medicine at the University of
 California Los Angeles, interested in the application of deep learning algorithms
 to improve patient diagnostic and therapeutic outcomes. My recent work involves
 applying natural language processing and image classification to medical genetics
@@ -37,7 +37,7 @@ datasets.
 
 `08/2023 - present`
 **Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
-- DGSOM Scholarship for Excellence
+- DGSOM Scholarship for Excellence, Nat R. Lazar Medical Scholarship
 
 `08/2017 - 05/2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
@@ -267,8 +267,9 @@ This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
-[David Whipp](https://davewhipp.github.io).
+[David Whipp](https://davewhipp.github.io) and
+[Benjamin L. Moore](https://blm.io).
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: June 20, 2023<br/><br/>
+<br/>Last updated: August 3, 2023<br/><br/>
