@@ -196,7 +196,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 `11/2022`
 **Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
 - Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
-[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] [[yearbook](https://simonliu.dev/files/cv/liu_ccacc_40_yearbook.pdf#page=215)]
+[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)]
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
