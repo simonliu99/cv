@@ -201,7 +201,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
 - *Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*
-[[blog](https://h3dprint.org/covid19)] [[news](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)]
+[[news](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)]
 - With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
 
 `12/2020`
@@ -278,4 +278,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 3, 2023<br/><br/>
+<br/>Last updated: August 25, 2023<br/><br/>
