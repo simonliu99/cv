@@ -5,22 +5,12 @@ title: Curriculum Vitae
 # Simon Liu
 <br>
 Medical Student, David Geffen School of Medicine, University of California Los Angeles.
-<!-- <br> -->
-<!-- <p>
-<small>
-10833 Le Conte Ave<br>
-Los Angeles, CA 90095<br>
-</small>
-</p> -->
 
 <div id="webaddress">
-  <!-- <a href="mailto: simon+cv@simonliu.dev"><i class="fas fa-envelope"></i> simon@simonliu.dev</a> | -->
   <a href="mailto: simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
-  <!-- <a href="https://simonliu.dev"><i class="fas fa-globe-americas"></i> simonliu.dev</a><br> -->
   <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> simonliu99</a> |
-  <!-- <a href="https://orcid.org/0000-0002-1182-5492"><i class="fab fa-orcid"></i> 0000-0002-1182-5492</a><br> -->
-  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> simonliu99</a>
-  <!-- <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> google.scholar</a> -->
+  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> simonliu99</a> |
+  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> g.scholar</a>
 </div>
 
 
@@ -182,7 +172,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 `P-1`
 **Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD.
-[[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)] <!-- [[poster](https://event.fourwaves.com/ppd-2022/abstracts/b7d5529f-3892-45a1-8886-b1f687f57e54)] -->
+[[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
 
 
 ## Selected Honors
@@ -248,21 +238,21 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 BIOF398.81 Practical Deep Learning
 
 ### Johns Hopkins University
-EN.580.475 Biomedical Data Science <!-- EN.580.475 -->
+EN.580.475 Biomedical Data Science
 
-EN.580.480 Precision Care Medicine I <!-- EN.580.480 -->
+EN.580.480 Precision Care Medicine I
 
-EN.580.481 Precision Care Medicine II <!-- EN.580.481 -->
+EN.580.481 Precision Care Medicine II
 
-EN.580.488 Foundations of Computational Biology and Bioinformatics <!-- EN.580.488 -->
+EN.580.488 Foundations of Computational Biology and Bioinformatics
 
-EN.601.455 Computer Integrated Surgery I <!-- EN.601.455 -->
+EN.601.455 Computer Integrated Surgery I
 
-EN.601.496 Computer Integrated Surgery II <!-- EN.601.496 -->
+EN.601.496 Computer Integrated Surgery II
 
-EN.601.475 Machine Learning <!-- EN.601.475 -->
+EN.601.475 Machine Learning
 
-EN.601.481 Machine Learning: Deep Learning <!-- EN.601.481 -->
+EN.601.481 Machine Learning: Deep Learning
 
 
 ## Metadata
@@ -278,4 +268,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 25, 2023<br/><br/>
+<br/>Last updated: September 20, 2023<br/><br/>
