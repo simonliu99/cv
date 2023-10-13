@@ -60,6 +60,26 @@ datasets.
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
 - With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/)
 
+### Leadership
+
+`10/2023 - present`
+**Co-Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA, USA
+
+`10/2023 - present`
+**Community Health Co-Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), Los Angeles, CA, USA
+
+`10/2023 - present`
+**MS1 Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), Los Angeles, CA, USA
+
+`11/2019 - 12/2020`
+**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+
+`05/2019 - 11/2019`
+**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+
+`04/2018 - 05/2021`
+**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
+
 ### Volunteering
 
 `10/2021 - 07/2023`
@@ -71,17 +91,6 @@ datasets.
 `08/2020 - 05/2021`
 **Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
 - With [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
-
-### Leadership
-
-`11/2019 - 12/2020`
-**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
-
-`05/2019 - 11/2019`
-**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
-
-`04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
 
 
 ## Publications
