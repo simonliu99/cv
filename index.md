@@ -277,4 +277,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: September 20, 2023<br/><br/>
+<br/>Last updated: October 13, 2023<br/><br/>
