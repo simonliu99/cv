@@ -69,7 +69,7 @@ datasets.
 **Community Health Co-Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), Los Angeles, CA, USA
 
 `10/2023 - present`
-**MS1 Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), Los Angeles, CA, USA
+**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *University of California Los Angeles*, Los Angeles, CA, USA
 
 `11/2019 - 12/2020`
 **Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
@@ -186,6 +186,11 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 ## Selected Honors
 
+`11/2023`
+**President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
+- Awarded at the Chinese Culture and Community Service Center 41th Anniversary Celebration for 1,160 hours of service
+[[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
+
 `07/2023`
 **Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
 
@@ -277,4 +282,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: October 13, 2023<br/><br/>
+<br/>Last updated: December 5, 2023<br/><br/>
