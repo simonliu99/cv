@@ -54,11 +54,11 @@ datasets.
 
 `12/2018 - 03/2020`
 **Research Analyst**, *School of Medicine, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Susan Hutfless](https://publichealth.jhu.edu/faculty/3009/susan-hutfless)
+- With [Susan Hutfless](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
 
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
-- With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/)
+- With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/handle/10713/19800)
 
 ### Leadership
 
@@ -85,6 +85,7 @@ datasets.
 `10/2021 - 07/2023`
 **Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*Chinese Culture and Community Service Center*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
 - With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
+- Received President’s Volunteer Service Award 2023 [[award]](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)
 
 ### Teaching
 
@@ -188,7 +189,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 `11/2023`
 **President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the Chinese Culture and Community Service Center 41th Anniversary Celebration for 1,160 hours of service
+- Awarded at the CCACC 41th Anniversary Celebration for 1,160 hours of service
 [[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
 
 `07/2023`
@@ -276,10 +277,10 @@ This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv
 [https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
-[Eliseo Papa](https://elipapa.github.io/) with styles based on
+[Eliseo Papa](https://elipapa.github.io/) with styles inspired by
 [David Whipp](https://davewhipp.github.io) and
 [Benjamin L. Moore](https://blm.io).
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: December 5, 2023<br/><br/>
+<br/>Last updated: March 7, 2024<br/><br/>
