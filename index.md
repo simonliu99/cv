@@ -71,14 +71,14 @@ datasets.
 `10/2023 - present`
 **Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *University of California Los Angeles*, Los Angeles, CA, USA
 
+`04/2018 - 05/2021`
+**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
+
 `11/2019 - 12/2020`
 **Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
 
 `05/2019 - 11/2019`
 **Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
-
-`04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
 
 ### Volunteering
 
@@ -94,7 +94,7 @@ datasets.
 - With [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
 
 
-## Publications
+## Scholarship
 
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Web of Science](https://www.webofscience.com/wos/author/record/2514221).
 
@@ -103,82 +103,102 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 `J-10`
 Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023).
 T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. *Pharmacological Research*, 192, 106797.
-[https://doi.org/10.1016/j.phrs.2023.106797](https://doi.org/10.1016/j.phrs.2023.106797) [[pdf](https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf)]
+[https://doi.org/10.1016/j.phrs.2023.106797](https://doi.org/10.1016/j.phrs.2023.106797) 
+[[pdf](https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf)]
 
 `J-9`
 Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., **Liu, S.**, Hong, M., Zhang, J., Wang, J., & Jiang, C. (2022).
 Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. *Aging and Disease*.
-[https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) [[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
+[https://doi.org/10.14336/ad.2022.1102](https://doi.org/10.14336/ad.2022.1102) 
+[[pdf](https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf)]
 
 `J-8`
 Jiang, C., Guo, H., Zhang, Z., Wang, Y., **Liu, S.**, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., & Wang, J. (2022).
 Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. *Oxidative Medicine and Cellular Longevity, 2022*, 1–38.
-[https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) [[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
+[https://doi.org/10.1155/2022/3948921](https://doi.org/10.1155/2022/3948921) 
+[[pdf](https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf)]
 
 `J-7`
 Hutfless, S., Shiratori, Y., Chu, D., **Liu, S.**, & Kalloo, A. (2022).
 Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015–2021. *BMJ Open, 12*(9).
-[https://doi.org/10.1136/bmjopen-2022-065077](https://doi.org/10.1136/bmjopen-2022-065077) [[pdf](https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf)]
+[https://doi.org/10.1136/bmjopen-2022-065077](https://doi.org/10.1136/bmjopen-2022-065077) 
+[[pdf](https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf)]
 
 `J-6`
 Sun, C., Han, Y., Zhang, R., **Liu, S.**, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., & Wang, J. (2022).
 Regulated necrosis in COVID-19: A double-edged sword. *Frontiers in Immunology, 13*.
-[https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) [[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
+[https://doi.org/10.3389/fimmu.2022.917141](https://doi.org/10.3389/fimmu.2022.917141) 
+[[pdf](https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf)]
 
 `J-5`
 Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., **Liu, S.**, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., & Brant, S. R. (2022).
 A systematic review of Crohn’s disease case definitions in administrative or claims databases. *Inflammatory Bowel Diseases*.
-[https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) [[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
+[https://doi.org/10.1093/ibd/izac131](https://doi.org/10.1093/ibd/izac131) 
+[[pdf](https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf)]
 
 `J-4`
 Ledgister Hanchard, S. E.\*, Dwyer, M. C.\*, **Liu, S.**\*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. (2022).
 Scoping review and classification of Deep Learning in Medical Genetics. *Genetics in Medicine*.
-[https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* [[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
+[https://doi.org/10.1016/j.gim.2022.04.025](https://doi.org/10.1016/j.gim.2022.04.025) \**Co-first authors.* 
+[[pdf](https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf)]
 
 `J-3`
 Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., **Liu, S.**, Solomon, B. D., & Waikel, R. L. (2022).
 Neural networks for classification and image generation of aging in genetic syndromes. *Frontiers in Genetics, 13*.
-[https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) [[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
+[https://doi.org/10.3389/fgene.2022.864092](https://doi.org/10.3389/fgene.2022.864092) 
+[[pdf](https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf)]
 
 `J-2`
 Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., **Liu, S.**, Wu, L. J., & Wu, J. (2021).
 The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. *Brain, behavior, and immunity, 91*, 267–283.
-[https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) [[pdf](https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf)]
+[https://doi.org/10.1016/j.bbi.2020.10.005](https://doi.org/10.1016/j.bbi.2020.10.005) 
+[[pdf](https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf)]
 
 `J-1`
 Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., **Liu, S.**, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., & Wu, J. (2020).
 Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403.
-[https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) [[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
+[https://doi.org/10.7150/thno.49199](https://doi.org/10.7150/thno.49199) 
+[[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
 
 ### Conference Papers
 
 `C-1`
 Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., & Manbachi, A. (2020).
 Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. *Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520* (16 March 2020).
-[https://doi.org/10.1117/12.2548873](https://doi.org/10.1117/12.2548873) [[pdf](https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf)]
+[https://doi.org/10.1117/12.2548873](https://doi.org/10.1117/12.2548873) 
+[[pdf](https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf)]
 
 ### Meeting Abstracts
+
+`A-4`
+Lu, A., **Liu, S.** (2024).
+Rapid expansion in optometry laser capsulotomy following scope of practice legislation. *Ophthalmology*. (submitted)
 
 `A-3`
 Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021).
 Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. *Anesthesia & Analgesia, 132*(5S):859-862.
-[https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) [[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
+[https://doi.org/10.1213/01.ane.0000803544.47940.c7](https://doi.org/10.1213/01.ane.0000803544.47940.c7) 
+[[pdf](https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf)]
 
 `A-2`
-Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6).
-[https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) [[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
+Hutfless, S. M., Chu, D., **Liu, S.**, & Kalloo, A. N. (2020). 
+Predictors of ERCP-associated infections in outpatient hospitals. *Gastrointestinal Endoscopy, 91*(6S):AB563.
+[https://doi.org/10.1016/j.gie.2020.03.3314](https://doi.org/10.1016/j.gie.2020.03.3314) 
+[[pdf](https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf)]
 
 `A-1`
 Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., **Liu, S.**, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., & Brant, S. R. (2020).
-Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6).
-<a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a> [[pdf](https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf)]
+Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6):S-408.
+<a href="https://doi.org/10.1016/s0016-5085(20)31712-1">https://doi.org/10.1016/s0016-5085(20)31712-1</a> 
+[[pdf](https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf)]
 
 
 ## Presentations
 
 `P-2`
 **Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
-[[pdf](https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf)] [[pic](https://simonliu.dev/files/cv/liu_p2_certificate.jpg)]
+[[pdf](https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf)] 
+[[pic](https://simonliu.dev/files/cv/liu_p2_certificate.jpg)]
 
 `P-1`
 **Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD.
@@ -212,13 +232,16 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 `12/2020`
 **Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] [[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] [[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
+[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] 
+[[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] 
+[[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
 - With F. Shao, Y. Huang, and A. Harmalkar.
 
 `11/2020`
 **Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)] [[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
+[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)] 
+[[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
 - With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 
 `10/2020`
@@ -283,4 +306,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: March 7, 2024<br/><br/>
+<br/>Last updated: April 9, 2024<br/><br/>
