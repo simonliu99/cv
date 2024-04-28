@@ -100,6 +100,10 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
+`J-11`
+Li, Y., Ritzel, R. M., He, J., **Liu, S.**, Zhang, L., Wu, J. (2024). 
+Ablation of the integrin CD11b mac-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. *Cells*. (submitted)
+
 `J-10`
 Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023).
 T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. *Pharmacological Research*, 192, 106797.
@@ -205,7 +209,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
 
 
-## Selected Honors
+## Selected Awards
 
 `11/2023`
 **President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
