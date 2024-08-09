@@ -100,9 +100,15 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
-`J-11`
+`J-S`
 Li, Y., Ritzel, R. M., He, J., **Liu, S.**, Zhang, L., Wu, J. (2024). 
 Ablation of the integrin CD11b mac-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. *Cells*. (submitted)
+
+`J-11`
+Jia, P., Peng, Q., Fan, X., Zhang, Y., Xu, H., Li, J., Sonita, H., **Liu, S.**, Le, A., Hu, Q., Zhao, T., Zhang, S., Wang, J., Zille, M., Jiang, C., Chen, X., & Wang, J. (2024). 
+Immune‐mediated disruption of the blood–brain barrier after intracerebral hemorrhage: Insights and potential therapeutic targets. *CNS Neuroscience & Therapeutics, 30*(7). 
+[https://doi.org/10.1111/cns.14853](https://doi.org/10.1111/cns.14853)
+[[pdf](https://simonliu.dev/files/cv/liu_j11_immune_mediated_disruption.pdf)]
 
 `J-10`
 Liu, Y., Chen, S., **Liu, S.**, Wallace, K. L., Zille, M., Zhang, J., Wang, J., & Jiang, C. (2023).
@@ -174,7 +180,7 @@ Flexible piezoelectric sensor for real-time image-guided colonoscopies: a soluti
 
 ### Meeting Abstracts
 
-`A-4`
+`A-S`
 Lu, A., **Liu, S.** (2024).
 Rapid expansion in optometry laser capsulotomy following scope of practice legislation. *Ophthalmology*. (submitted)
 
@@ -244,8 +250,8 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 `11/2020`
 **Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)] 
 [[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
+[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
 - With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 
 `10/2020`
@@ -310,4 +316,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: April 27, 2024<br/><br/>
+<br/>Last updated: August 8, 2024<br/><br/>
