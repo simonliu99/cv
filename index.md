@@ -100,7 +100,6 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
-`J-S`
 Li, Y., Ritzel, R. M., He, J., **Liu, S.**, Zhang, L., Wu, J. (2024). 
 Ablation of the integrin CD11b mac-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. *Cells*. (submitted)
 
@@ -180,7 +179,6 @@ Flexible piezoelectric sensor for real-time image-guided colonoscopies: a soluti
 
 ### Meeting Abstracts
 
-`A-S`
 Lu, A., **Liu, S.** (2024).
 Rapid expansion in optometry laser capsulotomy following scope of practice legislation. *Ophthalmology*. (submitted)
 
@@ -316,4 +314,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 8, 2024<br/><br/>
+<br/>Last updated: August 11, 2024<br/><br/>
