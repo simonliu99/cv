@@ -16,7 +16,7 @@ Medical Student, David Geffen School of Medicine, University of California Los A
 
 ## Summary
 
-I am a MS1 at the David Geffen School of Medicine at the University of
+I am a MS2 at the David Geffen School of Medicine at the University of
 California Los Angeles, interested in the application of deep learning algorithms
 to improve patient diagnostic and therapeutic outcomes. My recent work involves
 applying natural language processing and image classification to medical genetics
@@ -314,4 +314,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 11, 2024<br/><br/>
+<br/>Last updated: August 30, 2024<br/><br/>
