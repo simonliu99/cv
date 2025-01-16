@@ -41,49 +41,57 @@ datasets.
 
 ### Research
 
+`08/2024 - present`
+**Research Assistant**, *Department of Anesthesiology Perioperative Medicine, UCLA*, Los Angeles, CA.
+- With [Maxime Cannesson](https://www.uclahealth.org/departments/anes/research/cannesson-laboratory) and Ravi Pal
+
+`12/2023 - 09/2024`
+**Research Assistant**, *Jules Stein Eye Institute, UCLA*, Los Angeles, CA.
+- With [Amanda J. Lu](https://www.uclahealth.org/providers/amanda-lu)
+
 `07/2021 - 07/2023`
 **Postbaccalaureate Fellow**, *National Human Genome Research Institute*, Bethesda, MD.
 - With [Benjamin Solomon](https://www.genome.gov/staff/Benjamin-Solomon-MD)
 
 `02/2020 - 05/2021`
-**Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD, USA.
+**Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD.
 - With [Chad Gordon](https://www.hopkinsmedicine.org/profiles/details/chad-gordon).
 - Received Provost's Undergraduate Research Award 2020-21
 [[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
 [[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
 
 `12/2018 - 03/2020`
-**Research Analyst**, *School of Medicine, Johns Hopkins University*, Baltimore, MD, USA.
+**Research Analyst**, *Johns Hopkins University School of Medicine*, Baltimore, MD.
 - With [Susan Hutfless](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
 
 `07/2018 - 03/2020`
-**Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD, USA.
+**Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD.
 - With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/handle/10713/19800)
 
 ### Leadership
 
 `10/2023 - present`
-**Co-Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA, USA
+**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*, Los Angeles, CA.
 
-`10/2023 - present`
-**Community Health Co-Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), Los Angeles, CA, USA
+`10/2023 - 10/2024`
+**Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA.
 
-`10/2023 - present`
-**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *University of California Los Angeles*, Los Angeles, CA, USA
+`10/2023 - 10/2024`
+**Community Health Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), Los Angeles, CA.
 
 `04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD, USA.
+**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD.
 
 `11/2019 - 12/2020`
-**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD.
 
 `05/2019 - 11/2019`
-**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD, USA
+**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD.
 
 ### Volunteering
 
 `10/2021 - 07/2023`
-**Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*Chinese Culture and Community Service Center*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
+**Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*CCACC*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
 - With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
 - Received President’s Volunteer Service Award 2023 [[award]](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)
 
@@ -100,8 +108,11 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Journal Articles
 
-Li, Y., Ritzel, R. M., He, J., **Liu, S.**, Zhang, L., Wu, J. (2024). 
-Ablation of the integrin CD11b mac-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. *Cells*. (submitted)
+`J-12`
+Li, Y., Lei, Z., Ritzel, R. M., He, J., **Liu, S.**, Zhang, L., & Wu, J. (2024). 
+Ablation of the integrin CD11B MAC-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. *Cells, 13*(18), 1584. 
+[https://doi.org/10.3390/cells13181584](https://doi.org/10.3390/cells13181584)
+[pdf](https://simonliu.dev/files/cv/liu_j12_ablation_of_integrin_cd11b.pdf)
 
 `J-11`
 Jia, P., Peng, Q., Fan, X., Zhang, Y., Xu, H., Li, J., Sonita, H., **Liu, S.**, Le, A., Hu, Q., Zhao, T., Zhang, S., Wang, J., Zille, M., Jiang, C., Chen, X., & Wang, J. (2024). 
@@ -215,6 +226,10 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 ## Selected Awards
 
+`12/2023`
+**Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*, Baltimore, MD, USA
+- Attended the USCAP 113th Annual Meeting
+
 `11/2023`
 **President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
 - Awarded at the CCACC 41th Anniversary Celebration for 1,160 hours of service
@@ -266,7 +281,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 ## Selected Press
 
 `2023`
-Liu, Simon. **"[Making an Impact Outside of the Laboratory.](https://www.edi.nih.gov/blog/communities/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
+Liu, Simon. **"[Making an Impact Outside of the Laboratory.](https://www.edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
 
 `2022`
 Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"** *Input Mag*. February 18, 2022.
@@ -314,4 +329,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: August 30, 2024<br/><br/>
+<br/>Last updated: January 16, 2025<br/><br/>
