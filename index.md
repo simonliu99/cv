@@ -28,6 +28,7 @@ datasets.
 `08/2023 - present`
 **Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
 - DGSOM Scholarship for Excellence, Nat R. Lazar Medical Scholarship
+- Honors: Sigma Xi
 
 `08/2017 - 05/2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
@@ -214,17 +215,24 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 ## Presentations
 
+`P-3`
+Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT.
+
 `P-2`
 **Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
 [[pdf](https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf)] 
 [[pic](https://simonliu.dev/files/cv/liu_p2_certificate.jpg)]
 
 `P-1`
-**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at: NIH Virtual Postbac Poster Day 2022*; Bethesda, MD.
+**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at the 2022 NIH Virtual Postbac Poster Day*; Bethesda, MD.
 [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
 
 
 ## Selected Awards
+
+`06/2025`
+**Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
+- Nominated for Associate Membership
 
 `12/2023`
 **Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*, Baltimore, MD, USA
@@ -269,7 +277,6 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 `10/2020`
 **Upsilon Pi Epsilon**, *Johns Hopkins University*, Baltimore, MD, USA.
-- International Honor Society for the Computing and Information Disciplines
 
 `11/2017`
 **Joseph F. Strohecker Scholarship**, *Johns Hopkins University*, Baltimore, MD, USA.
@@ -329,4 +336,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: January 16, 2025<br/><br/>
+<br/>Last updated: June 23, 2025<br/><br/>
