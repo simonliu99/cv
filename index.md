@@ -16,7 +16,7 @@ Medical Student, David Geffen School of Medicine, University of California Los A
 
 ## Summary
 
-I am a MS2 at the David Geffen School of Medicine at the University of
+I am a MS3 at the David Geffen School of Medicine at the University of
 California Los Angeles, interested in the application of deep learning algorithms
 to improve patient diagnostic and therapeutic outcomes. My recent work involves
 applying natural language processing and image classification to medical genetics
@@ -192,7 +192,7 @@ Flexible piezoelectric sensor for real-time image-guided colonoscopies: a soluti
 ### Meeting Abstracts
 
 `A-4`
-Hsu, D., Liu, S., Lu, A. (2025).
+Hsu, D., **Liu, S.**, Lu, A. (2025).
 Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Investigative Ophthalmology & Visual Science, 66*(8), 5773.
 [https://iovs.arvojournals.org/article.aspx?articleid=2808445](https://iovs.arvojournals.org/article.aspx?articleid=2808445)
 
@@ -234,7 +234,7 @@ Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy 
 
 `06/2025`
 **Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
-- Nominated for Associate Membership
+- Elected for Associate Membership by the Committee on Qualifications and Membership
 
 `12/2023`
 **Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*, Baltimore, MD, USA
@@ -290,16 +290,20 @@ Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy 
 ## Selected Press
 
 `2023`
-Liu, Simon. **"[Making an Impact Outside of the Laboratory.](https://www.edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory)"** *Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
+Liu, Simon. **"[Making an Impact Outside of the Laboratory.](http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory)"**
+*Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
 
 `2022`
-Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"** *Input Mag*. February 18, 2022.
+Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"**
+*Input Mag*. February 18, 2022.
 
 `2019`
-Calabresi, Kaitlyn. **"[Interview with Health 3D.](https://blog.tcolabs.org/health3d-interview-a933be08cfc4)"** *TCO Labs*. November 20, 2019.
+Calabresi, Kaitlyn. **"[Interview with Health 3D.](https://medium.com/tco-labs-blog/health3d-interview-a933be08cfc4)"**
+*TCO Labs*. November 20, 2019.
 
 `2018`
-Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"** *The Johns Hopkins News-Letter*. November 15, 2018.
+Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"**
+*The Johns Hopkins News-Letter*. November 15, 2018.
 
 
 ## Selected Coursework
@@ -338,4 +342,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: July 16, 2025<br/><br/>
+<br/>Last updated: September 6, 2025<br/><br/>
