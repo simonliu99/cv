@@ -42,10 +42,6 @@ datasets.
 
 ### Research
 
-`08/2024 - present`
-**Research Assistant**, *Department of Anesthesiology Perioperative Medicine, UCLA*, Los Angeles, CA.
-- With [Maxime Cannesson](https://www.uclahealth.org/departments/anes/research/cannesson-laboratory) and Ravi Pal
-
 `12/2023 - 09/2024`
 **Research Assistant**, *Jules Stein Eye Institute, UCLA*, Los Angeles, CA.
 - With [Amanda J. Lu](https://www.uclahealth.org/providers/amanda-lu)
