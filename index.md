@@ -42,6 +42,10 @@ datasets.
 
 ### Research
 
+`12/2025 - present`
+**Research Assistant**, *Department of Radiology Oncology, UCLA*, Los Angeles, CA.
+- With [Ricky R. Savjani](https://rickysavjani.com)
+
 `12/2023 - 09/2024`
 **Research Assistant**, *Jules Stein Eye Institute, UCLA*, Los Angeles, CA.
 - With [Amanda J. Lu](https://www.uclahealth.org/providers/amanda-lu)
@@ -66,6 +70,9 @@ datasets.
 - With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/handle/10713/19800)
 
 ### Leadership
+
+`10/2025 - present`
+**Advisor**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA.
 
 `10/2023 - present`
 **Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*, Los Angeles, CA.
@@ -214,7 +221,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 ## Presentations
 
 `P-3`
-Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT.
+Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf)]
 
 `P-2`
 **Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
@@ -302,29 +309,6 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 *The Johns Hopkins News-Letter*. November 15, 2018.
 
 
-## Selected Coursework
-
-### National Institutes of Health
-BIOF398.81 Practical Deep Learning
-
-### Johns Hopkins University
-EN.580.475 Biomedical Data Science
-
-EN.580.480 Precision Care Medicine I
-
-EN.580.481 Precision Care Medicine II
-
-EN.580.488 Foundations of Computational Biology and Bioinformatics
-
-EN.601.455 Computer Integrated Surgery I
-
-EN.601.496 Computer Integrated Surgery II
-
-EN.601.475 Machine Learning
-
-EN.601.481 Machine Learning: Deep Learning
-
-
 ## Metadata
 
 This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv/).
@@ -338,4 +322,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: September 6, 2025<br/><br/>
+<br/>Last updated: February 9, 2026<br/><br/>
