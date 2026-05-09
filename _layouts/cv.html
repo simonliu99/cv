@@ -17,5 +17,15 @@
     {{ content }}
     </div>
   </div>
+  <script>
+    document.querySelectorAll('#content a[href]').forEach(function(link) {
+      var href = link.getAttribute('href');
+      if (!href || href.charAt(0) === '#' || href.indexOf('mailto:') === 0) {
+        return;
+      }
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  </script>
 </body>
 </html>
