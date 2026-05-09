@@ -27,15 +27,12 @@ datasets.
 
 `08/2023 - present`
 **Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
-- DGSOM Scholarship for Excellence, Nat R. Lazar Medical Scholarship
 - Honors: Sigma Xi
 
 `08/2017 - 05/2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
-- Linda Trinh Memorial Award, Provost’s Undergraduate Research Award, Joseph F. Strohecker Scholarship
 - Honors: Upsilon Pi Epsilon, Dean's list, general & BME+CS departmental honors
-- GPA: 3.69
 
 
 ## Experience
@@ -44,30 +41,27 @@ datasets.
 
 `12/2025 - present`
 **Research Assistant**, *Department of Radiation Oncology, UCLA*, Los Angeles, CA.
-- Mentor: [Ricky R. Savjani](https://rickysavjani.com)
+- Mentor: [Ricky R. Savjani, MD, PhD](https://rickysavjani.com)
 
 `12/2023 - 09/2024`
 **Research Assistant**, *Jules Stein Eye Institute, UCLA*, Los Angeles, CA.
-- Mentor: [Amanda J. Lu](https://www.uclahealth.org/providers/amanda-lu)
+- Mentor: [Amanda J. Lu, MD](https://www.uclahealth.org/providers/amanda-lu)
 
 `07/2021 - 07/2023`
 **Postbaccalaureate Fellow**, *National Human Genome Research Institute*, Bethesda, MD.
-- Mentor: [Benjamin Solomon](https://www.genome.gov/staff/Benjamin-Solomon-MD)
+- Mentor: [Benjamin Solomon, MD](https://www.genome.gov/staff/Benjamin-Solomon-MD)
 
 `02/2020 - 05/2021`
 **Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD.
-- Mentor: [Chad Gordon](https://www.hopkinsmedicine.org/profiles/details/chad-gordon).
-- Received Provost's Undergraduate Research Award 2020-21
-[[award]](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)
-[[news]](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)
+- Mentor: [Chad Gordon, DO](https://www.hopkinsmedicine.org/profiles/details/chad-gordon)
 
 `12/2018 - 03/2020`
 **Research Analyst**, *Johns Hopkins University School of Medicine*, Baltimore, MD.
-- Mentor: [Susan Hutfless](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
+- Mentor: [Susan Hutfless, MS, PhD](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
 
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD.
-- Mentors: [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/entities/publication/f58ae5d9-3e4c-4622-ba85-2c7c217e0a5e)
+- Mentors: [Junfang Wu, BM, PhD](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/entities/publication/f58ae5d9-3e4c-4622-ba85-2c7c217e0a5e)
 
 ### Leadership
 
@@ -99,14 +93,14 @@ datasets.
 
 `10/2021 - 07/2023`
 **Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*CCACC*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
-- Mentors: [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/team)
-- Received President’s Volunteer Service Award 2023 [[award]](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)
+- Mentors: [Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD](https://www.ccacchealth.org/team)
+- Received Outstanding Volunteer Award [[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] and President’s Volunteer Service Award 2023 [[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
 
 ### Teaching
 
 `08/2020 - 05/2021`
 **Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD.
-- Instructor: [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
+- Instructor: [Kwame Kutten, PhD](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
 
 
 ## Grants and Funding
@@ -114,25 +108,30 @@ datasets.
 `2026`
 **Medical Student Research Grant**, *Radiological Society of North America* (MSG26-306)
 - Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the Electronic Medical Record
-- Mentor: Ricky Savjani, MD, PhD
+- Mentor: Ricky R. Savjani, MD, PhD
 - Amount: $6,000
 - Role: PI
+
+`2020`
+**Provost’s Undergraduate Research Award**, *Johns Hopkins University*
+- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
+[[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
+[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
+- Mentor: Chad Gordon, DO
+- Amount: $3,000
+- Role: Research Fellow
 
 
 ## Selected Awards
 
 `06/2025`
 **Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*
-- Elected for Associate Membership by the Committee on Qualifications and Membership
 
 `12/2023`
 **Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*
-- Attended the USCAP 113th Annual Meeting
 
 `11/2023`
 **President's Volunteer Service Award**, *Chinese Culture and Community Service Center*
-- Awarded at the CCACC 41st Anniversary Celebration for 1,160 hours of service
-[[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
 
 `07/2023`
 **Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*
@@ -142,29 +141,12 @@ datasets.
 
 `11/2022`
 **Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*
-- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
-[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)]
 
 `05/2021`
 **Linda Trinh Memorial Award**, *Johns Hopkins University*
-- *Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*
-[[news](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)]
-- With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
 
 `12/2020`
 **Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*
-- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] 
-[[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] 
-[[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
-- With F. Shao, Y. Huang, and A. Harmalkar.
-
-`11/2020`
-**Provost’s Undergraduate Research Award**, *Johns Hopkins University*
-- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-[[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
-[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
-- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
 
 `10/2020`
 **Upsilon Pi Epsilon**, *Johns Hopkins University*
@@ -179,6 +161,8 @@ datasets.
 ## Publications
 
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Web of Science](https://www.webofscience.com/wos/author/record/2514221).
+
+*\*Co-first authors. ‡Co-senior authors.*
 
 ### Manuscripts Under Review
 
@@ -248,8 +232,6 @@ Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirz
 Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403.
 [[doi](https://doi.org/10.7150/thno.49199)] [[pmid](https://pubmed.ncbi.nlm.nih.gov/33052221/)] [[pdf](https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf)]
 
-*\*Co-first authors. ‡Co-senior authors.*
-
 ### Conference Papers
 
 `C-1`
@@ -266,7 +248,7 @@ Kazah, I., Ryder, M., Maynard, K., **Liu, S.**, Sher, T., & Hernandez-Morgan, M.
 `A-4`
 Hsu, D., **Liu, S.**, Lu, A. (2025).
 Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Investigative Ophthalmology & Visual Science, 66*(8), 5773.
-[https://iovs.arvojournals.org/article.aspx?articleid=2808445](https://iovs.arvojournals.org/article.aspx?articleid=2808445)
+[[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2808445)]
 
 `A-3`
 Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021).
