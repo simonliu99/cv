@@ -71,26 +71,29 @@ datasets.
 
 ### Leadership
 
+`04/2026 - present`
+**Class Vice President**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*
+
 `10/2025 - present`
-**Advisor**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA.
+**Advisor**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), *UCLA*
 
-`10/2023 - present`
-**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*, Los Angeles, CA.
-
-`10/2023 - 10/2024`
-**Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), Los Angeles, CA.
+`10/2023 - 04/2026`
+**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*
 
 `10/2023 - 10/2024`
-**Community Health Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), Los Angeles, CA.
+**Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), *UCLA*
+
+`10/2023 - 10/2024`
+**Community Health Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), *UCLA*
 
 `04/2018 - 05/2021`
-**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/), Baltimore, MD.
+**Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/)
 
 `11/2019 - 12/2020`
-**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD.
+**Vice President of Finance**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/)
 
 `05/2019 - 11/2019`
-**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/), Baltimore, MD.
+**Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/)
 
 ### Volunteering
 
@@ -102,13 +105,86 @@ datasets.
 ### Teaching
 
 `08/2020 - 05/2021`
-**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
+**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD.
 - With [Kwame Kutten](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
 
 
-## Scholarship
+## Grants and Funding
+
+`2026`
+**Medical Student Research Grant**, *Radiological Society of North America* (MSG26-306)
+- Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the Electronic Medical Record
+- Mentor: Ricky Savjani, MD, PhD
+- Amount: $6,000
+- Role: PI
+
+
+## Selected Awards
+
+`06/2025`
+**Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*
+- Elected for Associate Membership by the Committee on Qualifications and Membership
+
+`12/2023`
+**Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*
+- Attended the USCAP 113th Annual Meeting
+
+`11/2023`
+**President's Volunteer Service Award**, *Chinese Culture and Community Service Center*
+- Awarded at the CCACC 41st Anniversary Celebration for 1,160 hours of service
+[[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
+
+`07/2023`
+**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*
+
+`03/2023`
+**Scholarship for Excellence**, *David Geffen School of Medicine, University of California Los Angeles*
+
+`11/2022`
+**Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*
+- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
+[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)]
+
+`05/2021`
+**Linda Trinh Memorial Award**, *Johns Hopkins University*
+- *Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*
+[[news](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)]
+- With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
+
+`12/2020`
+**Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*
+- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
+[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] 
+[[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] 
+[[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
+- With F. Shao, Y. Huang, and A. Harmalkar.
+
+`11/2020`
+**Provost’s Undergraduate Research Award**, *Johns Hopkins University*
+- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
+[[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
+[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
+- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
+
+`10/2020`
+**Upsilon Pi Epsilon**, *Johns Hopkins University*
+
+`11/2017`
+**Joseph F. Strohecker Scholarship**, *Johns Hopkins University*
+
+`06/2017`
+**Maryland Seal of Biliteracy**, *Maryland State Department of Education*
+
+
+## Publications
 
 A list is also available on [Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en) and [Web of Science](https://www.webofscience.com/wos/author/record/2514221).
+
+### Manuscripts Under Review
+
+Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). Rad-DROP: Radiation Dose Routing for Oncology into PACS. *Radiology* (submitted). \*Co-first authors. ‡Co-senior authors.
+
+Zhao, C.Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. *Aesthetic Surgery Journal* (submitted).
 
 ### Journal Articles
 
@@ -194,6 +270,10 @@ Flexible piezoelectric sensor for real-time image-guided colonoscopies: a soluti
 
 ### Meeting Abstracts
 
+**Liu, S.**, & Gabel, E. (2026). Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. *Submitted to ASA ANESTHESIOLOGY 2026*.
+
+Kazah, I., Ryder, M., Maynard, K., **Liu, S.**, Sher, T., & Hernandez-Morgan, M. (2026). Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *Submitted to ASA ANESTHESIOLOGY 2026*.
+
 `A-4`
 Hsu, D., **Liu, S.**, Lu, A. (2025).
 Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Investigative Ophthalmology & Visual Science, 66*(8), 5773.
@@ -220,6 +300,8 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 
 ## Presentations
 
+### Posters
+
 `P-3`
 Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf)]
 
@@ -231,63 +313,6 @@ Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy a
 `P-1`
 **Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at the 2022 NIH Virtual Postbac Poster Day*; Bethesda, MD.
 [[pdf](https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf)]
-
-
-## Selected Awards
-
-`06/2025`
-**Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
-- Elected for Associate Membership by the Committee on Qualifications and Membership
-
-`12/2023`
-**Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*, Baltimore, MD, USA
-- Attended the USCAP 113th Annual Meeting
-
-`11/2023`
-**President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the CCACC 41st Anniversary Celebration for 1,160 hours of service
-[[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
-
-`07/2023`
-**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
-
-`03/2023`
-**Scholarship for Excellence**, *David Geffen School of Medicine, University of California Los Angeles*, Los Angeles, CA, USA
-
-`11/2022`
-**Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration
-[[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)]
-
-`05/2021`
-**Linda Trinh Memorial Award**, *Johns Hopkins University*, Baltimore, MD, USA
-- *Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields*
-[[news](https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/)]
-- With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
-
-`12/2020`
-**Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Detection and Segmentation of Pneumothoraces in Chest X-ray.*
-[[report](https://simonliu.dev/files/cv/liu_dl_final.pdf)] 
-[[pdf](https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf)] 
-[[award](https://simonliu.dev/files/cv/liu_dl_award.pdf)]
-- With F. Shao, Y. Huang, and A. Harmalkar.
-
-`11/2020`
-**Provost’s Undergraduate Research Award**, *Johns Hopkins University*, Baltimore, MD, USA.
-- *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
-[[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
-[[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
-- With [Chad Gordon](https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao).
-
-`10/2020`
-**Upsilon Pi Epsilon**, *Johns Hopkins University*, Baltimore, MD, USA.
-
-`11/2017`
-**Joseph F. Strohecker Scholarship**, *Johns Hopkins University*, Baltimore, MD, USA.
-
-`06/2017`
-**Maryland Seal of Biliteracy**, *Maryland State Department of Education*, Rockville, MD, USA.
 
 
 ## Selected Press
@@ -322,4 +347,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: February 9, 2026<br/><br/>
+<br/>Last updated: May 9, 2026<br/><br/>
