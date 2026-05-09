@@ -25,11 +25,10 @@ datasets.
 
 ## Education
 
-`08/2023 - present`
+`2023 - present`
 **Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
-- Honors: Sigma Xi
 
-`08/2017 - 05/2021`
+`2017 - 2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
 - Also completed B.S. major requirements for Computer Science
 - Honors: Upsilon Pi Epsilon, Dean's list, general & BME+CS departmental honors
@@ -306,7 +305,7 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 
 This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv/).
 - A downloadable version can be found at
-[https://simonliu.dev/files/cv/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
+[https://simonliu.dev/cv/liu_cv.pdf](https://simonliu.dev/cv/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles inspired by
