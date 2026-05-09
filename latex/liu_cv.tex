@@ -1,0 +1,268 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.7in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{needspace}
+\usepackage{titlesec}
+
+\definecolor{linkblue}{HTML}{1F4E79}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkblue,
+  urlcolor=linkblue,
+  pdfauthor={Simon Liu},
+  pdftitle={Curriculum Vitae | Simon Liu}
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.22em}
+\setlist[itemize]{leftmargin=1.4em, topsep=0.1em, itemsep=0.05em}
+\pagenumbering{gobble}
+
+\titleformat{\section}{\large\bfseries\scshape}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{1.0em}{0.45em}
+\titleformat{\subsection}{\normalsize\bfseries}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{0.7em}{0.25em}
+
+\newcommand{\cvitem}[3]{%
+  \Needspace{4\baselineskip}%
+  \texttt{#1}\hfill #2\\%
+  #3%
+}
+
+\newcommand{\pubitem}[3]{%
+  \Needspace{5\baselineskip}%
+  \texttt{#1}\quad #2\\%
+  #3%
+}
+
+\newcommand{\cventry}[4]{%
+  \Needspace{5\baselineskip}%
+  \texttt{#1}\hfill #2\\%
+  \textbf{#3}, #4%
+}
+
+\begin{document}
+
+{\LARGE \textbf{Simon Liu}}\\[0.2em]
+Medical Student, David Geffen School of Medicine, University of California Los Angeles.\\[0.4em]
+\href{mailto:simonliu@mednet.ucla.edu}{simonliu@mednet.ucla.edu} \,|\, 
+\href{https://github.com/simonliu99}{github.com/simonliu99} \,|\, 
+\href{https://www.linkedin.com/in/simonliu99/}{linkedin.com/in/simonliu99} \,|\, 
+\href{https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en}{Google Scholar}
+
+\section*{Summary}
+
+I am a MS3 at the David Geffen School of Medicine at the University of California Los Angeles, interested in the application of deep learning algorithms to improve patient diagnostic and therapeutic outcomes. My recent work involves applying natural language processing and image classification to medical genetics datasets.
+
+\section*{Education}
+
+\cventry{08/2023 -- present}{Los Angeles, CA}{Doctor of Medicine}{\emph{University of California Los Angeles} (expected May 2027)}
+\begin{itemize}
+  \item DGSOM Scholarship for Excellence, Nat R. Lazar Medical Scholarship
+  \item Honors: Sigma Xi
+\end{itemize}
+
+\cventry{08/2017 -- 05/2021}{Baltimore, MD}{Bachelor of Science, Biomedical Engineering}{\emph{Johns Hopkins University}}
+\begin{itemize}
+  \item Also completed B.S. major requirements for Computer Science
+  \item Linda Trinh Memorial Award, Provost's Undergraduate Research Award, Joseph F. Strohecker Scholarship
+  \item Honors: Upsilon Pi Epsilon, Dean's list, general \& BME+CS departmental honors
+  \item GPA: 3.69
+\end{itemize}
+
+\section*{Experience}
+
+\subsection*{Research}
+
+\cventry{12/2025 -- present}{Los Angeles, CA}{Research Assistant}{\emph{Department of Radiation Oncology, UCLA}}
+\begin{itemize}
+  \item With \href{https://rickysavjani.com}{Ricky R. Savjani}
+\end{itemize}
+
+\cventry{12/2023 -- 09/2024}{Los Angeles, CA}{Research Assistant}{\emph{Jules Stein Eye Institute, UCLA}}
+\begin{itemize}
+  \item With \href{https://www.uclahealth.org/providers/amanda-lu}{Amanda J. Lu}
+\end{itemize}
+
+\cventry{07/2021 -- 07/2023}{Bethesda, MD}{Postbaccalaureate Fellow}{\emph{National Human Genome Research Institute}}
+\begin{itemize}
+  \item With \href{https://www.genome.gov/staff/Benjamin-Solomon-MD}{Benjamin Solomon}
+\end{itemize}
+
+\cventry{02/2020 -- 05/2021}{Baltimore, MD}{Software Engineer}{\emph{Neuroplastic Surgery Research Laboratory, Johns Hopkins University}}
+\begin{itemize}
+  \item With \href{https://www.hopkinsmedicine.org/profiles/details/chad-gordon}{Chad Gordon}
+  \item Received Provost's Undergraduate Research Award 2020--21: \href{https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf}{award}, \href{https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/}{news}
+\end{itemize}
+
+\cventry{12/2018 -- 03/2020}{Baltimore, MD}{Research Analyst}{\emph{Johns Hopkins University School of Medicine}}
+\begin{itemize}
+  \item With \href{https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao}{Susan Hutfless}
+\end{itemize}
+
+\cventry{07/2018 -- 03/2020}{Baltimore, MD}{Laboratory Assistant}{\emph{STAR-ORC, University of Maryland School of Medicine}}
+\begin{itemize}
+  \item With \href{https://www.medschool.umaryland.edu/profiles/Wu-Junfang/}{Junfang Wu} and \href{https://archive.hshsl.umaryland.edu/entities/publication/f58ae5d9-3e4c-4622-ba85-2c7c217e0a5e}{Niaz Khan}
+\end{itemize}
+
+\subsection*{Leadership}
+
+\cvitem{10/2025 -- present}{Los Angeles, CA}{\textbf{Advisor}, \href{https://community.ucla.edu/studentorg/4217}{\emph{Anesthesiology Student Interest Group}}}
+
+\cvitem{10/2023 -- present}{Los Angeles, CA}{\textbf{Class Treasurer}, \href{https://medschool.ucla.edu/}{\emph{David Geffen School of Medicine}}, \emph{UCLA}}
+
+\cvitem{10/2023 -- 10/2024}{Los Angeles, CA}{\textbf{Coordinator}, \href{https://community.ucla.edu/studentorg/4217}{\emph{Anesthesiology Student Interest Group}}}
+
+\cvitem{10/2023 -- 10/2024}{Los Angeles, CA}{\textbf{Community Health Chair}, \href{https://apamsa.dgsom.ucla.edu/}{\emph{Asian Pacific American Medical Student Association}}}
+
+\cvitem{04/2018 -- 05/2021}{Baltimore, MD}{\textbf{Head of Manufacturing}, \href{https://health3d.github.io/}{\emph{Health 3D, LLC}}}
+
+\cvitem{11/2019 -- 12/2020}{Baltimore, MD}{\textbf{Vice President of Finance}, \href{https://akpsi.students.jh.edu/}{\emph{Alpha Kappa Psi, Rho Psi Chapter}}}
+
+\cvitem{05/2019 -- 11/2019}{Baltimore, MD}{\textbf{Pledge Educator}, \href{https://akpsi.students.jh.edu/}{\emph{Alpha Kappa Psi, Rho Psi Chapter}}}
+
+\subsection*{Volunteering}
+
+\cventry{10/2021 -- 07/2023}{Gaithersburg, MD}{Care Coordinator}{\href{https://www.ccacchealth.org/}{\emph{Pan Asian Volunteer Health Clinic}}, \href{https://www.ccacc-dc.org/Default_en.aspx}{\emph{CCACC}}}
+\begin{itemize}
+  \item With \href{https://www.ccacchealth.org/team}{Mo-Ping Chow and Yaoyao Zhu}
+  \item Received President's Volunteer Service Award 2023: \href{https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf}{award}
+\end{itemize}
+
+\subsection*{Teaching}
+
+\cventry{08/2020 -- 05/2021}{Baltimore, MD}{Course Assistant}{\emph{Department of Computer Science, Johns Hopkins University}}
+\begin{itemize}
+  \item With \href{https://www.bme.jhu.edu/people/faculty/kwame-kutten/}{Kwame Kutten}
+\end{itemize}
+
+\section*{Scholarship}
+
+A list is also available on \href{https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en}{Google Scholar} and \href{https://www.webofscience.com/wos/author/record/2514221}{Web of Science}.
+
+\subsection*{Journal Articles}
+
+\pubitem{J-12}{Li, Y., Lei, Z., Ritzel, R. M., He, J., \textbf{Liu, S.}, Zhang, L., \& Wu, J. (2024).}{Ablation of the integrin CD11B MAC-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. \emph{Cells, 13}(18), 1584. \href{https://doi.org/10.3390/cells13181584}{doi} \href{https://simonliu.dev/files/cv/liu_j12_ablation_of_integrin_cd11b.pdf}{pdf}}
+
+\pubitem{J-11}{Jia, P., Peng, Q., Fan, X., Zhang, Y., Xu, H., Li, J., Sonita, H., \textbf{Liu, S.}, Le, A., Hu, Q., Zhao, T., Zhang, S., Wang, J., Zille, M., Jiang, C., Chen, X., \& Wang, J. (2024).}{Immune-mediated disruption of the blood-brain barrier after intracerebral hemorrhage: Insights and potential therapeutic targets. \emph{CNS Neuroscience \& Therapeutics, 30}(7). \href{https://doi.org/10.1111/cns.14853}{doi} \href{https://simonliu.dev/files/cv/liu_j11_immune_mediated_disruption.pdf}{pdf}}
+
+\pubitem{J-10}{Liu, Y., Chen, S., \textbf{Liu, S.}, Wallace, K. L., Zille, M., Zhang, J., Wang, J., \& Jiang, C. (2023).}{T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. \emph{Pharmacological Research, 192}, 106797. \href{https://doi.org/10.1016/j.phrs.2023.106797}{doi} \href{https://simonliu.dev/files/cv/liu_j10_tcell_receptor_stroke_treatment.pdf}{pdf}}
+
+\pubitem{J-9}{Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., \textbf{Liu, S.}, Hong, M., Zhang, J., Wang, J., \& Jiang, C. (2022).}{Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. \emph{Aging and Disease}. \href{https://doi.org/10.14336/ad.2022.1102}{doi} \href{https://simonliu.dev/files/cv/liu_j9_siponimod_immunomodulatory_therapy.pdf}{pdf}}
+
+\pubitem{J-8}{Jiang, C., Guo, H., Zhang, Z., Wang, Y., \textbf{Liu, S.}, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., \& Wang, J. (2022).}{Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. \emph{Oxidative Medicine and Cellular Longevity, 2022}, 1--38. \href{https://doi.org/10.1155/2022/3948921}{doi} \href{https://simonliu.dev/files/cv/liu_j8_perihematomal_edema_ich.pdf}{pdf}}
+
+\pubitem{J-7}{Hutfless, S., Shiratori, Y., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. (2022).}{Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015--2021. \emph{BMJ Open, 12}(9). \href{https://doi.org/10.1136/bmjopen-2022-065077}{doi} \href{https://simonliu.dev/files/cv/liu_j7_risk_factors_for_infections_after_ercp.pdf}{pdf}}
+
+\pubitem{J-6}{Sun, C., Han, Y., Zhang, R., \textbf{Liu, S.}, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., \& Wang, J. (2022).}{Regulated necrosis in COVID-19: A double-edged sword. \emph{Frontiers in Immunology, 13}. \href{https://doi.org/10.3389/fimmu.2022.917141}{doi} \href{https://simonliu.dev/files/cv/liu_j6_regulated_necrosis_in_covid19.pdf}{pdf}}
+
+\pubitem{J-5}{Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., \textbf{Liu, S.}, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., \& Brant, S. R. (2022).}{A systematic review of Crohn's disease case definitions in administrative or claims databases. \emph{Inflammatory Bowel Diseases}. \href{https://doi.org/10.1093/ibd/izac131}{doi} \href{https://simonliu.dev/files/cv/liu_j5_systematic_review_of_crohns.pdf}{pdf}}
+
+\pubitem{J-4}{Ledgister Hanchard, S. E.*, Dwyer, M. C.*, \textbf{Liu, S.}*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. (2022).}{Scoping review and classification of Deep Learning in Medical Genetics. \emph{Genetics in Medicine}. \href{https://doi.org/10.1016/j.gim.2022.04.025}{doi} \href{https://simonliu.dev/files/cv/liu_j4_dl_in_medical_genetics.pdf}{pdf}. *Co-first authors.}
+
+\pubitem{J-3}{Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., \textbf{Liu, S.}, Solomon, B. D., \& Waikel, R. L. (2022).}{Neural networks for classification and image generation of aging in genetic syndromes. \emph{Frontiers in Genetics, 13}. \href{https://doi.org/10.3389/fgene.2022.864092}{doi} \href{https://simonliu.dev/files/cv/liu_j3_aging_in_genetic_syndromes.pdf}{pdf}}
+
+\pubitem{J-2}{Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., \textbf{Liu, S.}, Wu, L. J., \& Wu, J. (2021).}{The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. \emph{Brain, Behavior, and Immunity, 91}, 267--283. \href{https://doi.org/10.1016/j.bbi.2020.10.005}{doi} \href{https://simonliu.dev/files/cv/liu_j2_proton_channel_hv1.pdf}{pdf}}
+
+\pubitem{J-1}{Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., \textbf{Liu, S.}, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., \& Wu, J. (2020).}{Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. \emph{Theranostics, 10}(25), 11376--11403. \href{https://doi.org/10.7150/thno.49199}{doi} \href{https://simonliu.dev/files/cv/liu_j1_delayed_microglial_depletion.pdf}{pdf}}
+
+\subsection*{Conference Papers}
+
+\pubitem{C-1}{Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., \textbf{Liu, S.}, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., \& Manbachi, A. (2020).}{Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. \emph{Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520}. \href{https://doi.org/10.1117/12.2548873}{doi} \href{https://simonliu.dev/files/cv/liu_c1_flexible_piezoelectric_sensor.pdf}{pdf}}
+
+\subsection*{Meeting Abstracts}
+
+\pubitem{A-4}{Hsu, D., \textbf{Liu, S.}, Lu, A. (2025).}{Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. \emph{Investigative Ophthalmology \& Visual Science, 66}(8), 5773. \href{https://iovs.arvojournals.org/article.aspx?articleid=2808445}{link}}
+
+\pubitem{A-3}{Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., \textbf{Liu, S.}, Park, S.J., Salazar, S., \& Goeddel, L. (2021).}{Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. \emph{Anesthesia \& Analgesia, 132}(5S):859--862. \href{https://doi.org/10.1213/01.ane.0000803544.47940.c7}{doi} \href{https://simonliu.dev/files/cv/liu_a3_intraop_hypotension.pdf}{pdf}}
+
+\pubitem{A-2}{Hutfless, S. M., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. N. (2020).}{Predictors of ERCP-associated infections in outpatient hospitals. \emph{Gastrointestinal Endoscopy, 91}(6S):AB563. \href{https://doi.org/10.1016/j.gie.2020.03.3314}{doi} \href{https://simonliu.dev/files/cv/liu_a2_ercp-associated_infections.pdf}{pdf}}
+
+\pubitem{A-1}{Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., \textbf{Liu, S.}, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., \& Brant, S. R. (2020).}{Would K50* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. \emph{Gastroenterology, 158}(6):S-408. \href{https://doi.org/10.1016/s0016-5085(20)31712-1}{doi} \href{https://simonliu.dev/files/cv/liu_a1_k50_crohns.pdf}{pdf}}
+
+\section*{Presentations}
+
+\pubitem{P-3}{Hsu, D., \textbf{Liu, S.}, Lu, A.}{Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. \emph{Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology}; Salt Lake City, UT. \href{https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf}{pdf}}
+
+\pubitem{P-2}{\textbf{Liu, S.}}{Applications of deep learning in medical genetics. \emph{Presented at the June 2023 NHGRI Medical Genetics Branch meeting}; Bethesda, MD. \href{https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf}{pdf} \href{https://simonliu.dev/files/cv/liu_p2_certificate.jpg}{pic}}
+
+\pubitem{P-1}{\textbf{Liu, S.}, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., \& Solomon, B.D.}{Applications of deep learning in medical genetics. \emph{Poster presented at the 2022 NIH Virtual Postbac Poster Day}; Bethesda, MD. \href{https://simonliu.dev/files/cv/liu_p1_applications_of_dl.pdf}{pdf}}
+
+\section*{Selected Awards}
+
+\cventry{06/2025}{Los Angeles, CA, USA}{Sigma Xi}{\emph{David Geffen School of Medicine, University of California Los Angeles}}
+\begin{itemize}
+  \item Elected for Associate Membership by the Committee on Qualifications and Membership
+\end{itemize}
+
+\cventry{12/2023}{Baltimore, MD, USA}{Medical Student Genomics Workshop Travel Award}{\emph{United States and Canadian Academy of Pathology}}
+\begin{itemize}
+  \item Attended the USCAP 113th Annual Meeting
+\end{itemize}
+
+\cventry{11/2023}{Gaithersburg, MD, USA}{President's Volunteer Service Award}{\emph{Chinese Culture and Community Service Center}}
+\begin{itemize}
+  \item Awarded at the CCACC 41st Anniversary Celebration for 1,160 hours of service: \href{https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf}{award}
+\end{itemize}
+
+\cventry{07/2023}{Los Angeles, CA, USA}{Nat R. Lazar Medical Scholarship}{\emph{David Geffen School of Medicine, University of California Los Angeles}}
+
+\cventry{03/2023}{Los Angeles, CA, USA}{Scholarship for Excellence}{\emph{David Geffen School of Medicine, University of California Los Angeles}}
+
+\cventry{11/2022}{Gaithersburg, MD, USA}{Outstanding Volunteer Award}{\emph{Chinese Culture and Community Service Center}}
+\begin{itemize}
+  \item Awarded at the Chinese Culture and Community Service Center 40th Anniversary Celebration: \href{https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf}{award}
+\end{itemize}
+
+\cventry{05/2021}{Baltimore, MD, USA}{Linda Trinh Memorial Award}{\emph{Johns Hopkins University}}
+\begin{itemize}
+  \item Project: COVID-19 PPE Manufacturing Proposal: Consortium for 3D-Printed Headbands for Face Shields: \href{https://www.bme.jhu.edu/news-events/news/students-organize-efforts-to-3-d-print-ppe-for-the-johns-hopkins-hospital/}{news}
+  \item With Y. Bai, J. Feitelberg, K. Hu, S. Kumar, K. Leo, J. Li, C. Shallal, and N. Zhang
+\end{itemize}
+
+\cventry{12/2020}{Baltimore, MD, USA}{Intuitive Surgical Best Project Award Runner Up}{\href{https://deep.cs.jhu.edu/deeplearning.html}{\emph{Deep Learning}} course, \emph{Johns Hopkins University}}
+\begin{itemize}
+  \item Project: Detection and Segmentation of Pneumothoraces in Chest X-ray: \href{https://simonliu.dev/files/cv/liu_dl_final.pdf}{report}, \href{https://simonliu.dev/files/cv/liu_dl_final_ppt.pdf}{pdf}, \href{https://simonliu.dev/files/cv/liu_dl_award.pdf}{award}
+  \item With F. Shao, Y. Huang, and A. Harmalkar
+\end{itemize}
+
+\cventry{11/2020}{Baltimore, MD, USA}{Provost's Undergraduate Research Award}{\emph{Johns Hopkins University}}
+\begin{itemize}
+  \item Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device: \href{https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/}{news}, \href{https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf}{award}
+  \item With \href{https://scholar.google.com/citations?user=IFhIYJsAAAAJ&hl=en&oi=ao}{Chad Gordon}
+\end{itemize}
+
+\cvitem{10/2020}{Baltimore, MD, USA}{\textbf{Upsilon Pi Epsilon}, \emph{Johns Hopkins University}}
+
+\cvitem{11/2017}{Baltimore, MD, USA}{\textbf{Joseph F. Strohecker Scholarship}, \emph{Johns Hopkins University}}
+
+\cvitem{06/2017}{Rockville, MD, USA}{\textbf{Maryland Seal of Biliteracy}, \emph{Maryland State Department of Education}}
+
+\section*{Selected Press}
+
+\pubitem{2023}{Liu, Simon. \href{http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory}{\textbf{Making an Impact Outside of the Laboratory.}}}{\emph{Office of Equity, Diversity, and Inclusion, National Institutes of Health}. May 1, 2023.}
+
+\pubitem{2022}{Stokel-Walker, Chris. \href{https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks}{\textbf{Amid war fears, archivists are racing to preserve Ukraine's internet.}}}{\emph{Input Mag}. February 18, 2022.}
+
+\pubitem{2019}{Calabresi, Kaitlyn. \href{https://medium.com/tco-labs-blog/health3d-interview-a933be08cfc4}{\textbf{Interview with Health 3D.}}}{\emph{TCO Labs}. November 20, 2019.}
+
+\pubitem{2018}{Sangana, Neha. \href{https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md}{\textbf{Conference highlights student startups in Md.}}}{\emph{The Johns Hopkins News-Letter}. November 15, 2018.}
+
+\section*{Metadata}
+
+This document lives online at \href{https://simonliu.dev/cv/}{simonliu.dev/cv/}. A downloadable version can be found at \href{https://simonliu.dev/files/cv/liu_cv.pdf}{simonliu.dev/files/cv/liu\_cv.pdf}.
+
+Based on \href{https://github.com/elipapa/markdown-cv}{markdown-cv} by \href{https://elipapa.github.io/}{Eliseo Papa}, with styles inspired by \href{https://davewhipp.github.io}{David Whipp} and \href{https://github.com/blmoore/md-cv}{Benjamin L. Moore}.
+
+\href{https://opensource.org/licenses/MIT}{MIT License}.\\
+Last updated: February 9, 2026
+
+\end{document}

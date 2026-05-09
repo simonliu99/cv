@@ -7,10 +7,10 @@ title: Curriculum Vitae
 Medical Student, David Geffen School of Medicine, University of California Los Angeles.
 
 <div id="webaddress">
-  <a href="mailto: simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
+  <a href="mailto:simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
   <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> simonliu99</a> |
   <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> simonliu99</a> |
-  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en/"><i class="fas fa-book"></i> g.scholar</a>
+  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en"><i class="fas fa-book"></i> g.scholar</a>
 </div>
 
 
@@ -43,7 +43,7 @@ datasets.
 ### Research
 
 `12/2025 - present`
-**Research Assistant**, *Department of Radiology Oncology, UCLA*, Los Angeles, CA.
+**Research Assistant**, *Department of Radiation Oncology, UCLA*, Los Angeles, CA.
 - With [Ricky R. Savjani](https://rickysavjani.com)
 
 `12/2023 - 09/2024`
@@ -67,7 +67,7 @@ datasets.
 
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD.
-- With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/handle/10713/19800)
+- With [Junfang Wu](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/entities/publication/f58ae5d9-3e4c-4622-ba85-2c7c217e0a5e)
 
 ### Leadership
 
@@ -96,7 +96,7 @@ datasets.
 
 `10/2021 - 07/2023`
 **Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*CCACC*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
-- With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/staff)
+- With [Mo-Ping Chow and Yaoyao Zhu](https://www.ccacchealth.org/team)
 - Received President’s Volunteer Service Award 2023 [[award]](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)
 
 ### Teaching
@@ -221,7 +221,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 ## Presentations
 
 `P-3`
-Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf)]
+Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf)]
 
 `P-2`
 **Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
@@ -245,7 +245,7 @@ Hsu, D., **Liu, S.**, Lu, A.. Dramatic expansion in optometry laser capsulotomy 
 
 `11/2023`
 **President's Volunteer Service Award**, *Chinese Culture and Community Service Center*, Gaithersburg, MD, USA
-- Awarded at the CCACC 41th Anniversary Celebration for 1,160 hours of service
+- Awarded at the CCACC 41st Anniversary Celebration for 1,160 hours of service
 [[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
 
 `07/2023`
@@ -313,12 +313,12 @@ Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jh
 
 This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv/).
 - A downloadable version can be found at
-[https://simonliu.dev/files/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
+[https://simonliu.dev/files/cv/liu_cv.pdf](https://simonliu.dev/files/cv/liu_cv.pdf).
 
 Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles inspired by
 [David Whipp](https://davewhipp.github.io) and
-[Benjamin L. Moore](https://blm.io).
+[Benjamin L. Moore](https://github.com/blmoore/md-cv).
 
 [MIT License](https://opensource.org/licenses/MIT).
 
