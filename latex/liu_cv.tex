@@ -44,8 +44,12 @@
 \newcommand{\cvdetail}[1]{\par #1}
 \newcommand{\iddoi}[1]{DOI: #1}
 \newcommand{\idpmid}[1]{PMID: #1}
+\newcommand{\cvsection}[1]{%
+  \Needspace{7\baselineskip}%
+  \section*{#1}%
+}
 \newcommand{\cvsubsection}[1]{%
-  \Needspace{2\baselineskip}%
+  \Needspace{4\baselineskip}%
   \subsection*{#1}%
 }
 \newcommand{\publication}[1]{%
@@ -55,31 +59,29 @@
 
 \begin{document}
 
-{\LARGE\bfseries Simon Liu}\\[0.12em]
-Medical Student, David Geffen School of Medicine, University of California Los Angeles\\[0.12em]
-\small
-simonliu@mednet.ucla.edu \,|\, 
-simonliu.dev \,|\, 
-github.com/simonliu99\\[0.12em]
-Updated May 9, 2026
+{\LARGE\bfseries Simon Liu}\par\vspace{0.05em}
+\textsc{Curriculum Vitae} \,|\, Updated May 9, 2026\par\vspace{0.12em}
 \normalsize
 
-\section*{Summary}
+\cvsection{Summary}
 
-I am a MS3 at the David Geffen School of Medicine at the University of California Los Angeles, interested in the application of deep learning algorithms to improve patient diagnostic and therapeutic outcomes. My recent work involves applying natural language processing and image classification to medical genetics datasets.
+I am an MS3 at the David Geffen School of Medicine at UCLA, interested in the application of deep learning algorithms to improve patient diagnostic and therapeutic outcomes. My recent work involves applying natural language processing and image classification to medical genetics datasets.
 
-\section*{Education}
+\cvsection{Education}
 
-\cventry{2023--present}{\cvheading{Doctor of Medicine}{University of California Los Angeles}{, Los Angeles, CA.}
+\cventry{2023--present}{\cvheading{Doctor of Medicine}{University of California, Los Angeles}{, Los Angeles, CA.}
 \cvdetail{Expected May 2027}}
 
 \cventry{2017--2021}{\cvheading{Bachelor of Science, Biomedical Engineering}{Johns Hopkins University}{, Baltimore, MD.}
 \cvdetail{Also completed B.S. major requirements for Computer Science}
 \cvdetail{Honors: Upsilon Pi Epsilon, Dean's List, general and BME/CS departmental honors}}
 
-\section*{Experience}
+\cvsection{Experience}
 
 \cvsubsection{Research}
+
+\cventry{2026--present}{\cvheading{Research Assistant}{Bioinformatics and Perioperative Analytics, UCLA Health}{, Los Angeles, CA.}
+\cvdetail{Mentor: Eilon Gabel, MD}}
 
 \cventry{2025--present}{\cvheading{Research Assistant}{Department of Radiation Oncology, UCLA}{, Los Angeles, CA.}
 \cvdetail{Mentor: Ricky R. Savjani, MD, PhD}}
@@ -87,13 +89,13 @@ I am a MS3 at the David Geffen School of Medicine at the University of Californi
 \cventry{2023--2024}{\cvheading{Research Assistant}{Jules Stein Eye Institute, UCLA}{, Los Angeles, CA.}
 \cvdetail{Mentor: Amanda J. Lu, MD}}
 
-\cventry{2021--2023}{\cvheading{Postbaccalaureate Fellow}{National Human Genome Research Institute}{, Bethesda, MD.}
+\cventry{2021--2023}{\cvheading{Postbaccalaureate Fellow}{National Human Genome Research Institute, NIH}{, Bethesda, MD.}
 \cvdetail{Mentor: Benjamin Solomon, MD}}
 
-\cventry{2020--2021}{\cvheading{Software Engineer}{Neuroplastic Surgery Research Laboratory, Johns Hopkins University}{, Baltimore, MD.}
+\cventry{2020--2021}{\cvheading{Software Engineer}{Neuroplastic Surgery Research Laboratory, JHU}{, Baltimore, MD.}
 \cvdetail{Mentor: Chad Gordon, DO}}
 
-\cventry{2018--2020}{\cvheading{Research Analyst}{Johns Hopkins University School of Medicine}{, Baltimore, MD.}
+\cventry{2018--2020}{\cvheading{Research Analyst}{JHU School of Medicine}{, Baltimore, MD.}
 \cvdetail{Mentor: Susan Hutfless, MS, PhD}}
 
 \cventry{2018--2020}{\cvheading{Laboratory Assistant}{STAR-ORC, University of Maryland School of Medicine}{, Baltimore, MD.}
@@ -101,10 +103,10 @@ I am a MS3 at the David Geffen School of Medicine at the University of Californi
 
 \cvsubsection{Leadership}
 
-\cventry{2026--present}{\textbf{Class Vice President}, \emph{David Geffen School of Medicine}, UCLA}
-\cventry{2025--present}{\textbf{Advisor}, \emph{Anesthesiology Student Interest Group}, UCLA}
-\cventry{2023--2026}{\textbf{Class Treasurer}, \emph{David Geffen School of Medicine}, UCLA}
-\cventry{2023--2024}{\textbf{Coordinator}, \emph{Anesthesiology Student Interest Group}, UCLA}
+\cventry{2026--present}{\textbf{Vice President, Class of 2027}, \emph{Medical Student Council}, UCLA}
+\cventry{2025--present}{\textbf{Student Advisor}, \emph{Anesthesiology Student Interest Group}, UCLA}
+\cventry{2023--2026}{\textbf{Treasurer, Class of 2027}, \emph{Medical Student Council}, UCLA}
+\cventry{2023--2024}{\textbf{Student Coordinator}, \emph{Anesthesiology Student Interest Group}, UCLA}
 \cventry{2023--2024}{\textbf{Community Health Chair}, \emph{Asian Pacific American Medical Student Association}, UCLA}
 \cventry{2018--2021}{\textbf{Head of Manufacturing}, \emph{Health 3D, LLC}}
 \cventry{2019--2020}{\textbf{Vice President of Finance}, \emph{Alpha Kappa Psi, Rho Psi Chapter}}
@@ -114,38 +116,38 @@ I am a MS3 at the David Geffen School of Medicine at the University of Californi
 
 \cventry{2021--2023}{\cvheading{Care Coordinator}{Pan Asian Volunteer Health Clinic, CCACC}{, Gaithersburg, MD.}
 \cvdetail{Mentors: Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD}
-\cvdetail{Received Outstanding Volunteer Award and President's Volunteer Service Award 2023}}
+\cvdetail{Received Outstanding Volunteer Award and President's Volunteer Service Award}}
 
 \cvsubsection{Teaching}
 
-\cventry{2020--2021}{\cvheading{Course Assistant}{Department of Computer Science, Johns Hopkins University}{, Baltimore, MD.}
+\cventry{2020--2021}{\cvheading{Course Assistant}{Department of Computer Science, JHU}{, Baltimore, MD.}
 \cvdetail{Instructor: Kwame Kutten, PhD}}
 
-\section*{Grants and Funding}
+\cvsection{Grants and Funding}
 
 \cventry{2026}{\textbf{Medical Student Research Grant}, \emph{Radiological Society of North America} (MSG26-306)
-\cvdetail{Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the Electronic Medical Record}
+\cvdetail{Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the EMR}
 \cvdetail{Mentor: Ricky R. Savjani, MD, PhD; Amount: \$6,000; Role: PI}}
 
-\cventry{2020}{\textbf{Provost's Undergraduate Research Award}, \emph{Johns Hopkins University}
+\cventry{2020}{\textbf{Provost's Undergraduate Research Award}, \emph{JHU}
 \cvdetail{Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device}
 \cvdetail{Mentor: Chad Gordon, DO; Amount: \$3,000; Role: Research Fellow}}
 
-\section*{Selected Awards}
+\cvsection{Selected Awards}
 
-\cventry{2025}{\textbf{Sigma Xi}, \emph{David Geffen School of Medicine, University of California Los Angeles}}
-\cventry{2023}{\textbf{Medical Student Genomics Workshop Travel Award}, \emph{United States and Canadian Academy of Pathology}}
-\cventry{2023}{\textbf{President's Volunteer Service Award}, \emph{Chinese Culture and Community Service Center}}
-\cventry{2023}{\textbf{Nat R. Lazar Medical Scholarship}, \emph{David Geffen School of Medicine, University of California Los Angeles}}
-\cventry{2023}{\textbf{Scholarship for Excellence}, \emph{David Geffen School of Medicine, University of California Los Angeles}}
-\cventry{2022}{\textbf{Outstanding Volunteer Award}, \emph{Chinese Culture and Community Service Center}}
-\cventry{2021}{\textbf{Linda Trinh Memorial Award}, \emph{Johns Hopkins University}}
-\cventry{2020}{\textbf{Intuitive Surgical Best Project Award Runner Up}, \emph{Deep Learning} course, \emph{Johns Hopkins University}}
-\cventry{2020}{\textbf{Upsilon Pi Epsilon}, \emph{Johns Hopkins University}}
-\cventry{2017}{\textbf{Joseph F. Strohecker Scholarship}, \emph{Johns Hopkins University}}
+\cventry{2025}{\textbf{Sigma Xi}, \emph{The Scientific Research Honor Society}}
+\cventry{2023}{\textbf{Medical Student Genomics Workshop Travel Award}, \emph{USCAP}}
+\cventry{2023}{\textbf{President's Volunteer Service Award}, \emph{CCACC}}
+\cventry{2023}{\textbf{Nat R. Lazar Medical Scholarship}, \emph{David Geffen School of Medicine, UCLA}}
+\cventry{2023}{\textbf{Scholarship for Excellence}, \emph{David Geffen School of Medicine, UCLA}}
+\cventry{2022}{\textbf{Outstanding Volunteer Award}, \emph{CCACC}}
+\cventry{2021}{\textbf{Linda Trinh Memorial Award}, \emph{JHU}}
+\cventry{2020}{\textbf{Intuitive Surgical Best Project Award Runner Up}, \emph{JHU}}
+\cventry{2020}{\textbf{Upsilon Pi Epsilon}, \emph{JHU}}
+\cventry{2017}{\textbf{Joseph F. Strohecker Scholarship}, \emph{JHU}}
 \cventry{2017}{\textbf{Maryland Seal of Biliteracy}, \emph{Maryland State Department of Education}}
 
-\section*{Publications}
+\cvsection{Publications}
 
 \emph{*Co-first authors. \ddag{}Co-senior authors.}
 
@@ -190,7 +192,7 @@ I am a MS3 at the David Geffen School of Medicine at the University of Californi
 \publication{Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., \textbf{Liu, S.}, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., \& Brant, S. R. (2020). Would K50* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. \emph{Gastroenterology, 158}(6), S-408. \iddoi{10.1016/s0016-5085(20)31712-1}.}
 \end{enumerate}
 
-\section*{Presentations}
+\cvsection{Presentations}
 
 \cvsubsection{Posters}
 
@@ -200,7 +202,7 @@ I am a MS3 at the David Geffen School of Medicine at the University of Californi
 \publication{\textbf{Liu, S.}, Ledgister Hanchard, S., Dwyer, M. C., Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. Applications of deep learning in medical genetics. \emph{Poster presented at the 2022 NIH Virtual Postbac Poster Day}; Bethesda, MD.}
 \end{enumerate}
 
-\section*{Selected Press}
+\cvsection{Selected Press}
 
 \begin{enumerate}
 \publication{Liu, Simon. \textbf{Making an Impact Outside of the Laboratory.} \emph{Office of Equity, Diversity, and Inclusion, National Institutes of Health}. May 1, 2023.}

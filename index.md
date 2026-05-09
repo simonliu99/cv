@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 # Simon Liu
 <br>
-Medical Student, David Geffen School of Medicine, University of California Los Angeles.
+Medical Student, David Geffen School of Medicine at UCLA.
 
 <div id="webaddress">
   <a href="mailto:simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
@@ -16,17 +16,13 @@ Medical Student, David Geffen School of Medicine, University of California Los A
 
 ## Summary
 
-I am a MS3 at the David Geffen School of Medicine at the University of
-California Los Angeles, interested in the application of deep learning algorithms
-to improve patient diagnostic and therapeutic outcomes. My recent work involves
-applying natural language processing and image classification to medical genetics
-datasets.
+I am an MS3 at the David Geffen School of Medicine at UCLA, interested in the application of deep learning algorithms to improve patient diagnostic and therapeutic outcomes. My recent work involves applying natural language processing and image classification to medical genetics datasets.
 
 
 ## Education
 
 `2023 - present`
-**Doctor of Medicine**, *University of California Los Angeles*, Los Angeles, CA. (expected May 2027)
+**Doctor of Medicine**, *University of California, Los Angeles*, Los Angeles, CA. (expected May 2027)
 
 `2017 - 2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
@@ -38,6 +34,10 @@ datasets.
 
 ### Research
 
+`02/2026 - present`
+**Research Assistant**, *Bioinformatics and Perioperative Analytics, UCLA Health*, Los Angeles, CA.
+- Mentor: [Eilon Gabel, MD](https://www.uclahealth.org/providers/eilon-gabel)
+
 `12/2025 - present`
 **Research Assistant**, *Department of Radiation Oncology, UCLA*, Los Angeles, CA.
 - Mentor: [Ricky R. Savjani, MD, PhD](https://rickysavjani.com)
@@ -47,15 +47,15 @@ datasets.
 - Mentor: [Amanda J. Lu, MD](https://www.uclahealth.org/providers/amanda-lu)
 
 `07/2021 - 07/2023`
-**Postbaccalaureate Fellow**, *National Human Genome Research Institute*, Bethesda, MD.
+**Postbaccalaureate Fellow**, *National Human Genome Research Institute, NIH*, Bethesda, MD.
 - Mentor: [Benjamin Solomon, MD](https://www.genome.gov/staff/Benjamin-Solomon-MD)
 
 `02/2020 - 05/2021`
-**Software Engineer**, *Neuroplastic Surgery Research Laboratory, Johns Hopkins University*, Baltimore, MD.
+**Software Engineer**, *Neuroplastic Surgery Research Laboratory, JHU*, Baltimore, MD.
 - Mentor: [Chad Gordon, DO](https://www.hopkinsmedicine.org/profiles/details/chad-gordon)
 
 `12/2018 - 03/2020`
-**Research Analyst**, *Johns Hopkins University School of Medicine*, Baltimore, MD.
+**Research Analyst**, *JHU School of Medicine*, Baltimore, MD.
 - Mentor: [Susan Hutfless, MS, PhD](https://scholar.google.com/citations?user=NFgm82IAAAAJ&hl=en&oi=ao)
 
 `07/2018 - 03/2020`
@@ -65,19 +65,19 @@ datasets.
 ### Leadership
 
 `04/2026 - present`
-**Class Vice President**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*
+**Vice President, Class of 2027**, [*Medical Student Council*](https://medschool.ucla.edu/education/md-education/student-life-events/medical-student-council), *UCLA*
 
 `10/2025 - present`
-**Advisor**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), *UCLA*
+**Student Advisor**, [*Anesthesiology Student Interest Group*](https://mdstudentsorgs.healthsciences.ucla.edu/career-specialty-interest-groups#:~:text=Anesthesiology%20Student%20Interest%20Group), *UCLA*
 
 `10/2023 - 04/2026`
-**Class Treasurer**, [*David Geffen School of Medicine*](https://medschool.ucla.edu/), *UCLA*
+**Treasurer, Class of 2027**, [*Medical Student Council*](https://medschool.ucla.edu/education/md-education/student-life-events/medical-student-council), *UCLA*
 
 `10/2023 - 10/2024`
-**Coordinator**, [*Anesthesiology Student Interest Group*](https://community.ucla.edu/studentorg/4217), *UCLA*
+**Student Coordinator**, [*Anesthesiology Student Interest Group*](https://mdstudentsorgs.healthsciences.ucla.edu/career-specialty-interest-groups#:~:text=Anesthesiology%20Student%20Interest%20Group), *UCLA*
 
 `10/2023 - 10/2024`
-**Community Health Chair**, [*Asian Pacific American Medical Student Association*](https://apamsa.dgsom.ucla.edu/), *UCLA*
+**Community Health Chair**, [*Asian Pacific American Medical Student Association*](https://mdstudentsorgs.healthsciences.ucla.edu/national-and-regional-organizations/asian-pacific-american-medical-student-association), *UCLA*
 
 `04/2018 - 05/2021`
 **Head of Manufacturing**, [*Health 3D, LLC*](https://health3d.github.io/)
@@ -93,12 +93,12 @@ datasets.
 `10/2021 - 07/2023`
 **Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*CCACC*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
 - Mentors: [Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD](https://www.ccacchealth.org/team)
-- Received Outstanding Volunteer Award [[award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)] and President’s Volunteer Service Award 2023 [[award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)]
+- Received Outstanding Volunteer Award and President’s Volunteer Service Award
 
 ### Teaching
 
 `08/2020 - 05/2021`
-**Course Assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD.
+**Course Assistant**, *Department of Computer Science, JHU*, Baltimore, MD.
 - Instructor: [Kwame Kutten, PhD](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
 
 
@@ -106,13 +106,13 @@ datasets.
 
 `2026`
 **Medical Student Research Grant**, *Radiological Society of North America* (MSG26-306)
-- Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the Electronic Medical Record
+- Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the EMR
 - Mentor: Ricky R. Savjani, MD, PhD
 - Amount: $6,000
 - Role: PI
 
 `2020`
-**Provost’s Undergraduate Research Award**, *Johns Hopkins University*
+**Provost’s Undergraduate Research Award**, *JHU*
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
 [[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
 [[award](https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf)]
@@ -124,34 +124,34 @@ datasets.
 ## Selected Awards
 
 `06/2025`
-**Sigma Xi**, *David Geffen School of Medicine, University of California Los Angeles*
+**Sigma Xi**, *The Scientific Research Honor Society*
 
 `12/2023`
-**Medical Student Genomics Workshop Travel Award**, *United States and Canadian Academy of Pathology*
+**Medical Student Genomics Workshop Travel Award**, *USCAP*
 
 `11/2023`
-**President's Volunteer Service Award**, *Chinese Culture and Community Service Center*
+**[President's Volunteer Service Award](https://simonliu.dev/files/cv/liu_ccacc_pvsa.pdf)**, *CCACC*
 
 `07/2023`
-**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, University of California Los Angeles*
+**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, UCLA*
 
 `03/2023`
-**Scholarship for Excellence**, *David Geffen School of Medicine, University of California Los Angeles*
+**Scholarship for Excellence**, *David Geffen School of Medicine, UCLA*
 
 `11/2022`
-**Outstanding Volunteer Award**, *Chinese Culture and Community Service Center*
+**[Outstanding Volunteer Award](https://simonliu.dev/files/cv/liu_ccacc_volunteer_award.pdf)**, *CCACC*
 
 `05/2021`
-**Linda Trinh Memorial Award**, *Johns Hopkins University*
+**Linda Trinh Memorial Award**, *JHU*
 
 `12/2020`
-**Intuitive Surgical Best Project Award Runner Up**, [*Deep Learning*](https://deep.cs.jhu.edu/deeplearning.html) course, *Johns Hopkins University*
+**[Intuitive Surgical Best Project Award Runner Up](https://simonliu.dev/files/cv/liu_dl_award.pdf)**, *JHU*
 
 `10/2020`
-**Upsilon Pi Epsilon**, *Johns Hopkins University*
+**Upsilon Pi Epsilon**, *JHU*
 
 `11/2017`
-**Joseph F. Strohecker Scholarship**, *Johns Hopkins University*
+**Joseph F. Strohecker Scholarship**, *JHU*
 
 `06/2017`
 **Maryland Seal of Biliteracy**, *Maryland State Department of Education*
@@ -247,7 +247,7 @@ Kazah, I., Ryder, M., Maynard, K., **Liu, S.**, Sher, T., & Hernandez-Morgan, M.
 `A-4`
 Hsu, D., **Liu, S.**, Lu, A. (2025).
 Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Investigative Ophthalmology & Visual Science, 66*(8), 5773.
-[[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2808445)]
+[[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2808445)] [[pdf](https://simonliu.dev/files/cv/liu_a4_laser_scope_expansion.pdf)]
 
 `A-3`
 Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., **Liu, S.**, Park, S.J., Salazar, S., & Goeddel, L. (2021).
