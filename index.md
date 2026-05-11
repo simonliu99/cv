@@ -285,20 +285,16 @@ Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy a
 ## Selected Press
 
 `2023`
-Liu, Simon. **"[Making an Impact Outside of the Laboratory.](http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory)"**
-*Office of Equity, Diversity, and Inclusion, National Institutes of Health*. May 1, 2023.
+Liu, S. [Making an Impact Outside of the Laboratory.](http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory) Office of Equity, Diversity, and Inclusion, NIH. May 1, 2023.
 
 `2022`
-Stokel-Walker, Chris. **"[Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks)"**
-*Input Mag*. February 18, 2022.
+Stokel-Walker, C. [Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks) Input Mag. February 18, 2022.
 
 `2019`
-Calabresi, Kaitlyn. **"[Interview with Health 3D.](https://medium.com/tco-labs-blog/health3d-interview-a933be08cfc4)"**
-*TCO Labs*. November 20, 2019.
+Calabresi, K. [Interview with Health 3D.](https://medium.com/tco-labs-blog/health3d-interview-a933be08cfc4) TCO Labs. November 20, 2019.
 
 `2018`
-Sangana, Neha. **"[Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md)"**
-*The Johns Hopkins News-Letter*. November 15, 2018.
+Sangana, N. [Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md) The Johns Hopkins News-Letter. November 15, 2018.
 
 
 ## Metadata
@@ -314,4 +310,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: May 9, 2026<br/><br/>
+<br/>Last updated: May 10, 2026<br/><br/>
