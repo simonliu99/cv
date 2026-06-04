@@ -16,7 +16,7 @@ Medical Student, David Geffen School of Medicine at UCLA.
 
 ## Summary
 
-I am an MS3 at the David Geffen School of Medicine at UCLA, interested in the application of deep learning algorithms to improve patient diagnostic and therapeutic outcomes. My recent work involves applying natural language processing and image classification to medical genetics datasets.
+I am an MS3 at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services questions, with the goal of improving clinical decision-making and patient outcomes.
 
 
 ## Education
@@ -60,7 +60,7 @@ I am an MS3 at the David Geffen School of Medicine at UCLA, interested in the ap
 
 `07/2018 - 03/2020`
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD.
-- Mentors: [Junfang Wu, BM, PhD](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan](https://archive.hshsl.umaryland.edu/entities/publication/f58ae5d9-3e4c-4622-ba85-2c7c217e0a5e)
+- Mentors: [Junfang Wu, BM, PhD](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan, MD, PhD](https://pathology.med.upenn.edu/department/people/1818/niaz-khan)
 
 ### Leadership
 
@@ -165,7 +165,7 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 ### Manuscripts Under Review
 
-Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). Rad-DROP: Radiation Dose Routing for Oncology into PACS. *Radiology* (submitted).
+Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). RAD-Drop: Radiation Dose Routing for Oncology into PACS. *Radiology: Imaging Cancer* (submitted).
 
 Zhao, C.Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. *Aesthetic Surgery Journal* (submitted).
 
