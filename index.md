@@ -16,7 +16,7 @@ Medical Student, David Geffen School of Medicine at UCLA.
 
 ## Summary
 
-I am an MS3 at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services questions, with the goal of improving clinical decision-making and patient outcomes.
+I am an MS4 at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services questions, with the goal of improving clinical decision-making and patient outcomes.
 
 
 ## Education
@@ -35,15 +35,15 @@ I am an MS3 at the David Geffen School of Medicine at UCLA with a background in 
 ### Research
 
 `02/2026 - present`
-**Research Assistant**, *Bioinformatics and Perioperative Analytics, UCLA Health*, Los Angeles, CA.
+**Research Assistant**, *Division of Bioinformatics and Perioperative Analytics, UCLA Health*, Los Angeles, CA.
 - Mentor: [Eilon Gabel, MD](https://www.uclahealth.org/providers/eilon-gabel)
 
 `12/2025 - present`
-**Research Assistant**, *Department of Radiation Oncology, UCLA*, Los Angeles, CA.
+**Research Assistant**, *Department of Radiation Oncology, UCLA Health*, Los Angeles, CA.
 - Mentor: [Ricky R. Savjani, MD, PhD](https://rickysavjani.com)
 
 `12/2023 - 09/2024`
-**Research Assistant**, *Jules Stein Eye Institute, UCLA*, Los Angeles, CA.
+**Research Assistant**, *Jules Stein Eye Institute, UCLA Health*, Los Angeles, CA.
 - Mentor: [Amanda J. Lu, MD](https://www.uclahealth.org/providers/amanda-lu)
 
 `07/2021 - 07/2023`
@@ -163,11 +163,13 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 *\*Co-first authors. ‡Co-senior authors.*
 
-### Manuscripts Under Review
+### Manuscripts
 
-Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). RAD-Drop: Radiation Dose Routing for Oncology into PACS. *Radiology: Imaging Cancer* (submitted).
+Bang, C., Jank, E., Raj, V. B., Solomon, J., **Liu, S.**, Oh, C., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Qi, X. S., Kadambi, A., Lamb, J., Sung, K., & Savjani, R. R. (2026). Transforming Radiation Treatment History into Clinically Accessible Information for Multidisciplinary Oncology Care: Development and Evaluation of Rad-SNAP. *The Lancet Digital Health* (submitted).
 
-Zhao, C.Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. *Aesthetic Surgery Journal* (submitted).
+Zhao, C. Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. *Aesthetic Surgery Journal* (submitted).
+
+Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). RAD-Drop: Radiation Dose Routing for Oncology into PACS. (in revision).
 
 ### Journal Articles
 
@@ -273,7 +275,7 @@ Would K50\* by any other name smell so sweet? A systematic review of claims-base
 Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](https://simonliu.dev/files/cv/liu_p3_expansion_following_legislation.pdf)]
 
 `P-2`
-**Liu, S.**. Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
+**Liu, S.** Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
 [[pdf](https://simonliu.dev/files/cv/liu_p2_applications_of_dl.pdf)] 
 [[pic](https://simonliu.dev/files/cv/liu_p2_certificate.jpg)]
 
@@ -285,7 +287,7 @@ Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy a
 ## Selected Press
 
 `2023`
-Liu, S. [Making an Impact Outside of the Laboratory.](http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory) Office of Equity, Diversity, and Inclusion, NIH. May 1, 2023.
+**Liu, S.** [Making an Impact Outside of the Laboratory.](http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory) Office of Equity, Diversity, and Inclusion, NIH. May 1, 2023.
 
 `2022`
 Stokel-Walker, C. [Amid war fears, archivists are racing to preserve Ukraine’s internet.](https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks) Input Mag. February 18, 2022.
@@ -310,4 +312,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: May 10, 2026<br/><br/>
+<br/>Last updated: July 12, 2026<br/><br/>
