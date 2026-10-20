@@ -315,7 +315,7 @@ Calabresi, K. [Interview with Health 3D.](https://medium.com/tco-labs-blog/healt
 Sangana, N. [Conference highlights student startups in Md.](https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md) The Johns Hopkins News-Letter. November 15, 2018.
 
 
-## Metadata
+## About This CV
 
 This document lives online at [https://simonliu.dev/cv/](https://simonliu.dev/cv/).
 - A downloadable version can be found at
