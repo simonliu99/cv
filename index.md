@@ -120,10 +120,10 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 - Role: Research Fellow
 
 
-## Selected Awards
+## Honors and Awards
 
 `06/2025`
-**Sigma Xi**, *The Scientific Research Honor Society*
+**Associate Member**, *Sigma Xi*
 
 `12/2023`
 **Medical Student Genomics Workshop Travel Award**, *USCAP*
@@ -132,10 +132,10 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 **[President's Volunteer Service Award](files/liu_ccacc_pvsa.pdf)**, *CCACC*
 
 `07/2023`
-**Nat R. Lazar Medical Scholarship**, *David Geffen School of Medicine, UCLA*
+**Nat R. Lazar Medical Scholarship**, *UCLA*
 
 `03/2023`
-**Scholarship for Excellence**, *David Geffen School of Medicine, UCLA*
+**Scholarship for Excellence**, *UCLA*
 
 `11/2022`
 **[Outstanding Volunteer Award](files/liu_ccacc_volunteer_award.pdf)**, *CCACC*
