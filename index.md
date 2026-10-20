@@ -272,18 +272,31 @@ Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., 
 
 ## Presentations
 
+*Presenting author underlined.*
+
+### Oral
+
+`O-1`
+<u><strong>Liu, S.</strong></u> Applications of deep learning in medical genetics. *Oral presentation at the NHGRI Medical Genetics Branch meeting*; Bethesda, MD. June 2023.
+[[pdf](files/liu_applications_of_dl_talk.pdf)]
+[[certificate](files/liu_applications_of_dl_talk_certificate.jpg)]
+
 ### Posters
 
+`P-4`
+<u><strong>Liu, S.</strong></u>, & Gabel, E. Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. *ePoster presented at ASA ANESTHESIOLOGY 2026*; San Diego, CA. October 2026. Poster A1249.
+[[pdf](files/liu_residual_sedative_burden.pdf)]
+
 `P-3`
-Hsu, D., **Liu, S.**, Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology*; Salt Lake City, UT. [[pdf](files/liu_expansion_following_legislation.pdf)]
+Kazah, I., Ryder, M., Maynard, K., <u><strong>Liu, S.</strong></u>, Sher, T., & Hernandez-Morgan, M. Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *Poster presented at ASA ANESTHESIOLOGY 2026*; San Diego, CA. October 2026. Poster A2019.
+[[pdf](files/liu_dei_residency_websites.pdf)]
 
 `P-2`
-**Liu, S.** Applications of deep learning in medical genetics. *Presented at the June 2023 NHGRI Medical Genetics Branch meeting*; Bethesda, MD.
-[[pdf](files/liu_applications_of_dl_talk.pdf)] 
-[[pic](files/liu_applications_of_dl_talk_certificate.jpg)]
+<u>Hsu, D.</u>, **Liu, S.**, & Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. *Poster presented at the 2025 Association for Research in Vision and Ophthalmology Annual Meeting*; Salt Lake City, UT. May 2025.
+[[pdf](files/liu_expansion_following_legislation.pdf)]
 
 `P-1`
-**Liu, S.**, Ledgister Hanchard, S., Dwyer, M.C., Hu, P., Tekendo-Ngongang, C., Waikel, R.L., Duong, D., & Solomon, B.D. Applications of deep learning in medical genetics. *Poster presented at the 2022 NIH Virtual Postbac Poster Day*; Bethesda, MD.
+<u><strong>Liu, S.</strong></u>, Ledgister Hanchard, S., Dwyer, M. C., Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., & Solomon, B. D. Applications of deep learning in medical genetics. *Poster presented at the 2022 NIH Virtual Postbac Poster Day*; Bethesda, MD. April 2022.
 [[pdf](files/liu_applications_of_dl_poster.pdf)]
 
 
