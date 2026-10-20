@@ -11,6 +11,8 @@
 \usepackage{needspace}
 \usepackage{tabularx}
 \usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={Simon Liu - Curriculum Vitae}, pdfauthor={Simon Liu}}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -25,13 +27,13 @@
 \setlist[enumerate]{leftmargin=1.6em, topsep=0.15em, itemsep=0.35em, parsep=0pt}
 
 \titleformat{\section}{\large\scshape}{}{0pt}{}[\titlerule]
-\titlespacing*{\section}{0pt}{1.05em}{0.45em}
+\titlespacing*{\section}{0pt}{0.85em}{0.45em}
 \titleformat{\subsection}{\normalsize\bfseries}{}{0pt}{}
 \titlespacing*{\subsection}{0pt}{0.7em}{0.22em}
 
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 \newlength{\datewidth}
-\setlength{\datewidth}{0.85in}
+\setlength{\datewidth}{1.05in}
 
 \newcommand{\cventry}[2]{%
   \Needspace{2\baselineskip}%
@@ -40,10 +42,7 @@
   \end{tabularx}\par\vspace{0.12em}%
 }
 
-\newcommand{\cvheading}[3]{\textbf{#1}, \emph{#2}#3}
 \newcommand{\cvdetail}[1]{\par #1}
-\newcommand{\iddoi}[1]{DOI: #1}
-\newcommand{\idpmid}[1]{PMID: #1}
 \newcommand{\cvsection}[1]{%
   \Needspace{7\baselineskip}%
   \section*{#1}%
@@ -52,164 +51,208 @@
   \Needspace{4\baselineskip}%
   \subsection*{#1}%
 }
-\newcommand{\publication}[1]{%
+\newcommand{\publication}[2][]{%
   \Needspace{2\baselineskip}%
-  \item #1%
+  \item[#1] {\interlinepenalty=10000 #2\par}%
 }
 
 \begin{document}
 
 {\LARGE\bfseries Simon Liu}\par\vspace{0.05em}
-\textsc{Curriculum Vitae} \,|\, Updated July 12, 2026\par\vspace{0.12em}
+David Geffen School of Medicine at UCLA\par
+\href{mailto:cv@simonliu.dev}{cv@simonliu.dev} \,|\,
+\href{https://simonliu.dev}{simonliu.dev}\par
+{\small Updated October 20, 2026}\par\vspace{0.12em}
 \normalsize
 
-\cvsection{Summary}
-
-I am an MS4 at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services questions, with the goal of improving clinical decision-making and patient outcomes.
 
 \cvsection{Education}
 
-\cventry{2023--present}{\cvheading{Doctor of Medicine}{University of California, Los Angeles}{, Los Angeles, CA.}
+\cventry{2023--present}{\textbf{Doctor of Medicine}, \emph{University of California, Los Angeles}, Los Angeles, CA.
 \cvdetail{Expected May 2027}}
 
-\cventry{2017--2021}{\cvheading{Bachelor of Science, Biomedical Engineering}{Johns Hopkins University}{, Baltimore, MD.}
-\cvdetail{Also completed B.S. major requirements for Computer Science}
-\cvdetail{Honors: Upsilon Pi Epsilon, Dean's List, general and BME/CS departmental honors}}
+\cventry{2017--2021}{\textbf{Bachelor of Science, Biomedical Engineering}, \emph{Johns Hopkins University}, Baltimore, MD.
+\cvdetail{Second major: Computer Science}
+\cvdetail{General honors; departmental honors in both majors; Dean's List}}
+
 
 \cvsection{Experience}
 
+
 \cvsubsection{Research}
 
-\cventry{2026--present}{\cvheading{Research Assistant}{Division of Bioinformatics and Perioperative Analytics, UCLA Health}{, Los Angeles, CA.}
-\cvdetail{Mentor: Eilon Gabel, MD}}
+\cventry{02/2026--present}{\textbf{Research Assistant}, \emph{Division of Bioinformatics and Perioperative Analytics, UCLA Health}, Los Angeles, CA.
+\cvdetail{Mentor: \href{https://www.uclahealth.org/providers/eilon-gabel}{Eilon Gabel, MD}}}
 
-\cventry{2025--present}{\cvheading{Research Assistant}{Department of Radiation Oncology, UCLA Health}{, Los Angeles, CA.}
-\cvdetail{Mentor: Ricky R. Savjani, MD, PhD}}
+\cventry{12/2025--present}{\textbf{Research Assistant}, \emph{Department of Radiation Oncology, UCLA Health}, Los Angeles, CA.
+\cvdetail{Mentor: \href{https://rickysavjani.com}{Ricky R. Savjani, MD, PhD}}}
 
-\cventry{2023--2024}{\cvheading{Research Assistant}{Jules Stein Eye Institute, UCLA Health}{, Los Angeles, CA.}
-\cvdetail{Mentor: Amanda J. Lu, MD}}
+\cventry{12/2023--09/2024}{\textbf{Research Assistant}, \emph{Jules Stein Eye Institute, UCLA Health}, Los Angeles, CA.
+\cvdetail{Mentor: \href{https://www.uclahealth.org/providers/amanda-lu}{Amanda J. Lu, MD}}}
 
-\cventry{2021--2023}{\cvheading{Postbaccalaureate Fellow}{National Human Genome Research Institute, NIH}{, Bethesda, MD.}
-\cvdetail{Mentor: Benjamin Solomon, MD}}
+\cventry{07/2021--07/2023}{\textbf{Postbaccalaureate Fellow}, \emph{National Human Genome Research Institute, NIH}, Bethesda, MD.
+\cvdetail{Mentor: \href{https://www.genome.gov/staff/Benjamin-Solomon-MD}{Benjamin Solomon, MD}}}
 
-\cventry{2020--2021}{\cvheading{Software Engineer}{Neuroplastic Surgery Research Laboratory, JHU}{, Baltimore, MD.}
-\cvdetail{Mentor: Chad Gordon, DO}}
+\cventry{02/2020--05/2021}{\textbf{Software Engineer}, \emph{Neuroplastic Surgery Research Laboratory, JHU}, Baltimore, MD.
+\cvdetail{Mentor: \href{https://www.hopkinsmedicine.org/profiles/details/chad-gordon}{Chad Gordon, DO}}}
 
-\cventry{2018--2020}{\cvheading{Research Analyst}{JHU School of Medicine}{, Baltimore, MD.}
-\cvdetail{Mentor: Susan Hutfless, MS, PhD}}
+\cventry{12/2018--03/2020}{\textbf{Research Analyst}, \emph{JHU School of Medicine}, Baltimore, MD.
+\cvdetail{Mentor: \href{https://scholar.google.com/citations?user=NFgm82IAAAAJ\&hl=en\&oi=ao}{Susan Hutfless, MS, PhD}}}
 
-\cventry{2018--2020}{\cvheading{Laboratory Assistant}{STAR-ORC, University of Maryland School of Medicine}{, Baltimore, MD.}
-\cvdetail{Mentors: Junfang Wu, BM, PhD and Niaz Khan, MD, PhD}}
+\cventry{07/2018--03/2020}{\textbf{Laboratory Assistant}, \emph{STAR-ORC, University of Maryland School of Medicine}, Baltimore, MD.
+\cvdetail{Mentors: \href{https://www.medschool.umaryland.edu/profiles/Wu-Junfang/}{Junfang Wu, BM, PhD} and \href{https://pathology.med.upenn.edu/department/people/1818/niaz-khan}{Niaz Khan, MD, PhD}}}
 
-\cvsubsection{Leadership}
-
-\cventry{2026--present}{\textbf{Vice President, Class of 2027}, \emph{Medical Student Council}, UCLA}
-\cventry{2025--present}{\textbf{Student Advisor}, \emph{Anesthesiology Student Interest Group}, UCLA}
-\cventry{2023--2026}{\textbf{Treasurer, Class of 2027}, \emph{Medical Student Council}, UCLA}
-\cventry{2023--2024}{\textbf{Student Coordinator}, \emph{Anesthesiology Student Interest Group}, UCLA}
-\cventry{2023--2024}{\textbf{Community Health Chair}, \emph{Asian Pacific American Medical Student Association}, UCLA}
-\cventry{2018--2021}{\textbf{Head of Manufacturing}, \emph{Health 3D, LLC}}
-\cventry{2019--2020}{\textbf{Vice President of Finance}, \emph{Alpha Kappa Psi, Rho Psi Chapter}}
-\cventry{2019}{\textbf{Pledge Educator}, \emph{Alpha Kappa Psi, Rho Psi Chapter}}
-
-\cvsubsection{Volunteering}
-
-\cventry{2021--2023}{\cvheading{Care Coordinator}{Pan Asian Volunteer Health Clinic, CCACC}{, Gaithersburg, MD.}
-\cvdetail{Mentors: Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD}
-\cvdetail{Received Outstanding Volunteer Award and President's Volunteer Service Award}}
 
 \cvsubsection{Teaching}
 
-\cventry{2020--2021}{\cvheading{Course Assistant}{Department of Computer Science, JHU}{, Baltimore, MD.}
-\cvdetail{Instructor: Kwame Kutten, PhD}}
+\cventry{08/2020--05/2021}{\textbf{Course Assistant}, \emph{Department of Computer Science, JHU}, Baltimore, MD.
+\cvdetail{Instructor: \href{https://www.bme.jhu.edu/people/faculty/kwame-kutten/}{Kwame Kutten, PhD}}}
+
+
+\cvsubsection{Leadership}
+
+\cventry{04/2026--present}{\textbf{Vice President, Class of 2027}, \href{https://medschool.ucla.edu/education/md-education/student-life-events/medical-student-council}{\emph{Medical Student Council}}, \emph{UCLA}}
+
+\cventry{10/2025--present}{\textbf{Student Advisor}, \href{https://mdstudentsorgs.healthsciences.ucla.edu/career-specialty-interest-groups\#:\%7E:text=Anesthesiology\%20Student\%20Interest\%20Group}{\emph{Anesthesiology Student Interest Group}}, \emph{UCLA}}
+
+\cventry{10/2023--04/2026}{\textbf{Treasurer, Class of 2027}, \href{https://medschool.ucla.edu/education/md-education/student-life-events/medical-student-council}{\emph{Medical Student Council}}, \emph{UCLA}}
+
+\cventry{10/2023--10/2024}{\textbf{Student Coordinator}, \href{https://mdstudentsorgs.healthsciences.ucla.edu/career-specialty-interest-groups\#:\%7E:text=Anesthesiology\%20Student\%20Interest\%20Group}{\emph{Anesthesiology Student Interest Group}}, \emph{UCLA}}
+
+\cventry{10/2023--10/2024}{\textbf{Community Health Chair}, \href{https://mdstudentsorgs.healthsciences.ucla.edu/national-and-regional-organizations/asian-pacific-american-medical-student-association}{\emph{Asian Pacific American Medical Student Association}}, \emph{UCLA}}
+
+\cventry{04/2018--05/2021}{\textbf{Head of Manufacturing}, \href{https://health3d.github.io/}{\emph{Health 3D, LLC}}}
+
+\cventry{11/2019--12/2020}{\textbf{Vice President of Finance}, \href{https://akpsi.students.jh.edu/}{\emph{Alpha Kappa Psi, Rho Psi Chapter}}}
+
+\cventry{05/2019--11/2019}{\textbf{Pledge Educator}, \href{https://akpsi.students.jh.edu/}{\emph{Alpha Kappa Psi, Rho Psi Chapter}}}
+
+
+\cvsubsection{Community Service}
+
+\cventry{10/2021--07/2023}{\textbf{Care Coordinator}, \href{https://www.ccacchealth.org/}{\emph{Pan Asian Volunteer Health Clinic}}, \href{https://www.ccacc-dc.org/Default\_en.aspx}{\emph{CCACC}}, Gaithersburg, MD.
+\cvdetail{Mentors: \href{https://www.ccacchealth.org/team}{Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD}}}
+
 
 \cvsection{Grants and Funding}
 
-\cventry{2026}{\textbf{Medical Student Research Grant}, \emph{Radiological Society of North America} (MSG26-306)
+\cventry{2026}{\textbf{Medical Student Research Grant}, \emph{RSNA}
 \cvdetail{Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the EMR}
-\cvdetail{Mentor: Ricky R. Savjani, MD, PhD; Amount: \$6,000; Role: PI}}
+\cvdetail{Grant number: MSG26-306}
+\cvdetail{Mentor: Ricky R. Savjani, MD, PhD; Amount: \$6,000; Role: Principal Investigator}}
 
-\cventry{2020}{\textbf{Provost's Undergraduate Research Award}, \emph{JHU}
-\cvdetail{Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device}
+\cventry{2020}{\textbf{\href{https://research.jhu.edu/wp-content/uploads/2020/11/PURA-recipients-20-21.pdf}{Provost's Undergraduate Research Award}}, \emph{JHU}
+\cvdetail{\emph{\href{https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/}{Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device}}}
 \cvdetail{Mentor: Chad Gordon, DO; Amount: \$3,000; Role: Research Fellow}}
 
-\cvsection{Selected Awards}
 
-\cventry{2025}{\textbf{Sigma Xi}, \emph{The Scientific Research Honor Society}}
-\cventry{2023}{\textbf{Medical Student Genomics Workshop Travel Award}, \emph{USCAP}}
-\cventry{2023}{\textbf{President's Volunteer Service Award}, \emph{CCACC}}
-\cventry{2023}{\textbf{Nat R. Lazar Medical Scholarship}, \emph{David Geffen School of Medicine, UCLA}}
-\cventry{2023}{\textbf{Scholarship for Excellence}, \emph{David Geffen School of Medicine, UCLA}}
-\cventry{2022}{\textbf{Outstanding Volunteer Award}, \emph{CCACC}}
-\cventry{2021}{\textbf{Linda Trinh Memorial Award}, \emph{JHU}}
-\cventry{2020}{\textbf{Intuitive Surgical Best Project Award Runner Up}, \emph{JHU}}
-\cventry{2020}{\textbf{Upsilon Pi Epsilon}, \emph{JHU}}
-\cventry{2017}{\textbf{Joseph F. Strohecker Scholarship}, \emph{JHU}}
-\cventry{2017}{\textbf{Maryland Seal of Biliteracy}, \emph{Maryland State Department of Education}}
+\cvsection{Honors and Awards}
+
+\cventry{06/2025}{\textbf{Associate Member}, \emph{Sigma Xi}}
+
+\cventry{12/2023}{\textbf{Medical Student Genomics Workshop Travel Award}, \emph{USCAP}}
+
+\cventry{11/2023}{\textbf{\href{https://simonliu.dev/cv/files/liu\_ccacc\_pvsa.pdf}{President's Volunteer Service Award}}, \emph{CCACC}}
+
+\cventry{07/2023}{\textbf{Nat R. Lazar Medical Scholarship}, \emph{UCLA}}
+
+\cventry{03/2023}{\textbf{Scholarship for Excellence}, \emph{UCLA}}
+
+\cventry{11/2022}{\textbf{\href{https://simonliu.dev/cv/files/liu\_ccacc\_volunteer\_award.pdf}{Outstanding Volunteer Award}}, \emph{CCACC}}
+
+\cventry{05/2021}{\textbf{Linda Trinh Memorial Award}, \emph{JHU}}
+
+\cventry{12/2020}{\textbf{\href{https://simonliu.dev/cv/files/liu\_dl\_award.pdf}{Intuitive Surgical Best Project Award Runner Up}}, \emph{JHU}}
+
+\cventry{10/2020}{\textbf{Upsilon Pi Epsilon}, \emph{JHU}}
+
+\cventry{11/2017}{\textbf{Joseph F. Strohecker Scholarship}, \emph{JHU}}
+
+\cventry{06/2017}{\textbf{Maryland Seal of Biliteracy}, \emph{Maryland State Department of Education}}
+
 
 \cvsection{Publications}
 
+A list is also available on \href{https://scholar.google.com/citations?user=fwh\_UDMAAAAJ\&hl=en}{Google Scholar} and \href{https://www.webofscience.com/wos/author/record/2514221}{Web of Science}.
 \emph{*Co-first authors. \ddag{}Co-senior authors.}
-
-\cvsubsection{Manuscripts}
-
-\begin{enumerate}
-\publication{Bang, C., Jank, E., Raj, V. B., Solomon, J., \textbf{Liu, S.}, Oh, C., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Qi, X. S., Kadambi, A., Lamb, J., Sung, K., \& Savjani, R. R. (2026). Transforming Radiation Treatment History into Clinically Accessible Information for Multidisciplinary Oncology Care: Development and Evaluation of Rad-SNAP. \emph{The Lancet Digital Health} (submitted).}
-\publication{Zhao, C. Z., Wu, Y., \textbf{Liu, S.}, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., \& Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. \emph{Aesthetic Surgery Journal} (submitted).}
-\publication{Raj, V. B.*, Jank, E.*, Bang, C.*, Solomon, J., \textbf{Liu, S.}, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O'Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.\ddag{}, \& Savjani, R. R.\ddag{} (2026). RAD-Drop: Radiation Dose Routing for Oncology into PACS. (in revision).}
-\end{enumerate}
 
 \cvsubsection{Journal Articles}
 
-\begin{enumerate}
-\publication{Li, Y., Lei, Z., Ritzel, R. M., He, J., \textbf{Liu, S.}, Zhang, L., \& Wu, J. (2024). Ablation of the integrin CD11B MAC-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice. \emph{Cells, 13}(18), 1584. \iddoi{10.3390/cells13181584}. \idpmid{39329765}.}
-\publication{Jia, P., Peng, Q., Fan, X., Zhang, Y., Xu, H., Li, J., Sonita, H., \textbf{Liu, S.}, Le, A., Hu, Q., Zhao, T., Zhang, S., Wang, J., Zille, M., Jiang, C., Chen, X., \& Wang, J. (2024). Immune-mediated disruption of the blood-brain barrier after intracerebral hemorrhage: Insights and potential therapeutic targets. \emph{CNS Neuroscience \& Therapeutics, 30}(7). \iddoi{10.1111/cns.14853}. \idpmid{39034473}.}
-\publication{Liu, Y., Chen, S., \textbf{Liu, S.}, Wallace, K. L., Zille, M., Zhang, J., Wang, J., \& Jiang, C. (2023). T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment. \emph{Pharmacological Research, 192}, 106797. \iddoi{10.1016/j.phrs.2023.106797}. \idpmid{37211238}.}
-\publication{Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., \textbf{Liu, S.}, Hong, M., Zhang, J., Wang, J., \& Jiang, C. (2022). Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage. \emph{Aging and Disease}. \iddoi{10.14336/ad.2022.1102}. \idpmid{37191423}.}
-\publication{Jiang, C., Guo, H., Zhang, Z., Wang, Y., \textbf{Liu, S.}, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., \& Wang, J. (2022). Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage. \emph{Oxidative Medicine and Cellular Longevity, 2022}, 1--38. \iddoi{10.1155/2022/3948921}. \idpmid{36164392}.}
-\publication{Hutfless, S., Shiratori, Y., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. (2022). Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015--2021. \emph{BMJ Open, 12}(9). \iddoi{10.1136/bmjopen-2022-065077}. \idpmid{36691191}.}
-\publication{Sun, C., Han, Y., Zhang, R., \textbf{Liu, S.}, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., \& Wang, J. (2022). Regulated necrosis in COVID-19: A double-edged sword. \emph{Frontiers in Immunology, 13}. \iddoi{10.3389/fimmu.2022.917141}. \idpmid{36090995}.}
-\publication{Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., \textbf{Liu, S.}, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., \& Brant, S. R. (2022). A systematic review of Crohn's disease case definitions in administrative or claims databases. \emph{Inflammatory Bowel Diseases}. \iddoi{10.1093/ibd/izac131}. \idpmid{35857336}.}
-\publication{Ledgister Hanchard, S. E.*, Dwyer, M. C.*, \textbf{Liu, S.}*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. (2022). Scoping review and classification of Deep Learning in Medical Genetics. \emph{Genetics in Medicine}. \iddoi{10.1016/j.gim.2022.04.025}. \idpmid{35612590}.}
-\publication{Duong, D., Hu, P., Tekendo-Ngongang, C., Hanchard, S. E., \textbf{Liu, S.}, Solomon, B. D., \& Waikel, R. L. (2022). Neural networks for classification and image generation of aging in genetic syndromes. \emph{Frontiers in Genetics, 13}. \iddoi{10.3389/fgene.2022.864092}. \idpmid{35480315}.}
-\publication{Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., \textbf{Liu, S.}, Wu, L. J., \& Wu, J. (2021). The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation. \emph{Brain, Behavior, and Immunity, 91}, 267--283. \iddoi{10.1016/j.bbi.2020.10.005}. \idpmid{33039662}.}
-\publication{Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., \textbf{Liu, S.}, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., \& Wu, J. (2020). Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. \emph{Theranostics, 10}(25), 11376--11403. \iddoi{10.7150/thno.49199}. \idpmid{33052221}.}
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[J-12]{Li, Y., Lei, Z., Ritzel, R. M., He, J., \textbf{Liu, S.}, Zhang, L., \& Wu, J. (2024). \href{https://doi.org/10.3390/cells13181584}{Ablation of the integrin CD11B MAC-1 limits deleterious responses to traumatic spinal cord injury and improves functional recovery in mice.} \emph{Cells, 13}(18), 1584.}
+\publication[J-11]{Jia, P., Peng, Q., Fan, X., Zhang, Y., Xu, H., Li, J., Sonita, H., \textbf{Liu, S.}, Le, A., Hu, Q., Zhao, T., Zhang, S., Wang, J., Zille, M., Jiang, C., Chen, X., \& Wang, J. (2024). \href{https://doi.org/10.1111/cns.14853}{Immune-mediated disruption of the blood--brain barrier after intracerebral hemorrhage: Insights and potential therapeutic targets.} \emph{CNS Neuroscience \& Therapeutics, 30}(7), e14853.}
+\publication[J-10]{Liu, Y., Chen, S., \textbf{Liu, S.}, Wallace, K. L., Zille, M., Zhang, J., Wang, J., \& Jiang, C. (2023). \href{https://doi.org/10.1016/j.phrs.2023.106797}{T-cell receptor signaling modulated by the co-receptors: Potential targets for stroke treatment.} \emph{Pharmacological Research, 192}, 106797.}
+\publication[J-9]{Zhang, Z., Li, Y., Shi, J., Zhu, L., Dai, Y., Fu, P., \textbf{Liu, S.}, Hong, M., Zhang, J., Wang, J., \& Jiang, C. (2023). \href{https://doi.org/10.14336/ad.2022.1102}{Lymphocyte-related immunomodulatory therapy with Siponimod (BAF-312) improves outcomes in mice with acute intracerebral hemorrhage.} \emph{Aging and Disease, 14}(3), 966--991.}
+\publication[J-8]{Hutfless, S., Jasper, R. A., Tilak, A., Ghosh, T., Kedia, S., \textbf{Liu, S.}, Urrunaga, N. H., Josephson, M., Narang, A., Miller, S., Chen, P.-H., Joseph, S., \& Brant, S. R. (2023). \href{https://doi.org/10.1093/ibd/izac131}{A systematic review of Crohn's disease case definitions in administrative or claims databases.} \emph{Inflammatory Bowel Diseases, 29}(5), 705--715.}
+\publication[J-7]{Jiang, C., Guo, H., Zhang, Z., Wang, Y., \textbf{Liu, S.}, Lai, J., Wang, T. J., Li, S., Zhang, J., Zhu, L., Fu, P., Zhang, J., \& Wang, J. (2022). \href{https://doi.org/10.1155/2022/3948921}{Molecular, pathological, clinical, and therapeutic aspects of perihematomal edema in different stages of intracerebral hemorrhage.} \emph{Oxidative Medicine and Cellular Longevity, 2022}, 3948921.}
+\publication[J-6]{Hutfless, S., Shiratori, Y., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. (2022). \href{https://doi.org/10.1136/bmjopen-2022-065077}{Risk factors for infections after endoscopic retrograde cholangiopancreatography (ERCP): A retrospective cohort analysis of US Medicare Fee-for-Service claims, 2015--2021.} \emph{BMJ Open, 12}(9), e065077.}
+\publication[J-5]{Sun, C., Han, Y., Zhang, R., \textbf{Liu, S.}, Wang, J., Zhang, Y., Chen, X., Jiang, C., Wang, J., Fan, X., \& Wang, J. (2022). \href{https://doi.org/10.3389/fimmu.2022.917141}{Regulated necrosis in COVID-19: A double-edged sword.} \emph{Frontiers in Immunology, 13}, 917141.}
+\publication[J-4]{Ledgister Hanchard, S. E.*, Dwyer, M. C.*, \textbf{Liu, S.}*, Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. (2022). \href{https://doi.org/10.1016/j.gim.2022.04.025}{Scoping review and classification of deep learning in medical genetics.} \emph{Genetics in Medicine, 24}(8), 1593--1603.}
+\publication[J-3]{Duong, D., Hu, P., Tekendo-Ngongang, C., Ledgister Hanchard, S. E., \textbf{Liu, S.}, Solomon, B. D., \& Waikel, R. L. (2022). \href{https://doi.org/10.3389/fgene.2022.864092}{Neural networks for classification and image generation of aging in genetic syndromes.} \emph{Frontiers in Genetics, 13}, 864092.}
+\publication[J-2]{Li, Y., Ritzel, R. M., He, J., Cao, T., Sabirzhanov, B., Li, H., \textbf{Liu, S.}, Wu, L. J., \& Wu, J. (2021). \href{https://doi.org/10.1016/j.bbi.2020.10.005}{The voltage-gated proton channel Hv1 plays a detrimental role in contusion spinal cord injury via extracellular acidosis-mediated neuroinflammation.} \emph{Brain, Behavior, and Immunity, 91}, 267--283.}
+\publication[J-1]{Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirzhanov, B., \textbf{Liu, S.}, Li, H., Stoica, B. A., Loane, D. J., Faden, A. I., \& Wu, J. (2020). \href{https://doi.org/10.7150/thno.49199}{Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice.} \emph{Theranostics, 10}(25), 11376--11403.}
 \end{enumerate}
 
-\cvsubsection{Conference Papers}
+\cvsubsection{Conference Proceedings}
 
-\begin{enumerate}
-\publication{Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., \textbf{Liu, S.}, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., \& Manbachi, A. (2020). Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic. \emph{Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520}. \iddoi{10.1117/12.2548873}.}
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[C-1]{Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., \textbf{Liu, S.}, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., \& Manbachi, A. (2020). \href{https://doi.org/10.1117/12.2548873}{Flexible piezoelectric sensor for real-time image-guided colonoscopies: a solution to endoscopic looping challenges in clinic.} \emph{Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling, 1131520} (16 March 2020).}
 \end{enumerate}
 
 \cvsubsection{Meeting Abstracts}
 
-\begin{enumerate}
-\publication{\textbf{Liu, S.}, \& Gabel, E. (2026). Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. \emph{Submitted to ASA ANESTHESIOLOGY 2026}.}
-\publication{Kazah, I., Ryder, M., Maynard, K., \textbf{Liu, S.}, Sher, T., \& Hernandez-Morgan, M. (2026). Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. \emph{Submitted to ASA ANESTHESIOLOGY 2026}.}
-\publication{Hsu, D., \textbf{Liu, S.}, Lu, A. (2025). Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. \emph{Investigative Ophthalmology \& Visual Science, 66}(8), 5773.}
-\publication{Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., \textbf{Liu, S.}, Park, S. J., Salazar, S., \& Goeddel, L. (2021). Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery. \emph{Anesthesia \& Analgesia, 132}(5S), 859--862. \iddoi{10.1213/01.ane.0000803544.47940.c7}. \idpmid{35134003}.}
-\publication{Hutfless, S. M., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. N. (2020). Predictors of ERCP-associated infections in outpatient hospitals. \emph{Gastrointestinal Endoscopy, 91}(6S), AB563. \iddoi{10.1016/j.gie.2020.03.3314}.}
-\publication{Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., \textbf{Liu, S.}, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., \& Brant, S. R. (2020). Would K50* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. \emph{Gastroenterology, 158}(6), S-408. \iddoi{10.1016/s0016-5085(20)31712-1}.}
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[A-6]{\textbf{Liu, S.}, \& Gabel, E. (2026). Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. \emph{ASA ANESTHESIOLOGY 2026} (accepted).}
+\publication[A-5]{Kazah, I., Ryder, M., Maynard, K., \textbf{Liu, S.}, Sher, T., \& Hernandez-Morgan, M. (2026). Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. \emph{ASA ANESTHESIOLOGY 2026} (accepted).}
+\publication[A-4]{Hsu, D., \textbf{Liu, S.}, \& Lu, A. (2025). \href{https://iovs.arvojournals.org/article.aspx?articleid=2808445}{Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation.} \emph{Investigative Ophthalmology \& Visual Science, 66}(8), 5773.}
+\publication[A-3]{Patel, R., Palamuttam, N., Choi, Y., Diamreyan, M., \textbf{Liu, S.}, Park, S. J., Salazar, S., \& Goeddel, L. (2021). \href{https://doi.org/10.1213/01.ane.0000803544.47940.c7}{Intraoperative hypotension before critical care admission is common but not associated with in hospital mortality in non-cardiac surgery.} \emph{Anesthesia \& Analgesia, 132}(5S), 859--862.}
+\publication[A-2]{Hutfless, S. M., Chu, D., \textbf{Liu, S.}, \& Kalloo, A. N. (2020). \href{https://doi.org/10.1016/j.gie.2020.03.3314}{Predictors of ERCP-associated infections in outpatient hospitals.} \emph{Gastrointestinal Endoscopy, 91}(6S), AB563.}
+\publication[A-1]{Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga, N., Kedia, S., \textbf{Liu, S.}, Arya, N., Hobstetter, L., Persad, P., Yeretssian, G., \& Brant, S. R. (2020). \href{https://doi.org/10.1016/s0016-5085(20)31712-1}{Would K50* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions.} \emph{Gastroenterology, 158}(6), S-408.}
+\end{enumerate}
+
+\Needspace{16\baselineskip}
+\cvsubsection{Manuscripts}
+
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[M-3]{Bang, C., Jank, E., Raj, V. B., Solomon, J., \textbf{Liu, S.}, Oh, C., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Qi, X. S., Kadambi, A., Lamb, J., Sung, K., \& Savjani, R. R. (2026). Transforming radiation treatment history into clinically accessible information for multidisciplinary oncology care: Development and evaluation of Rad-SNAP (submitted).}
+\publication[M-2]{Zhao, C. Z., Wu, Y., \textbf{Liu, S.}, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., \& Roostaeian, J. (2026). Equity in rhinoplasty: Authorship demographics and publication patterns in rhinoplasty research (submitted).}
+\publication[M-1]{Raj, V. B.*, Jank, E.*, Bang, C.*, Solomon, J., \textbf{Liu, S.}, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O'Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.\ddag{}, \& Savjani, R. R.\ddag{} (2026). RAD-Drop: Radiation dose routing for oncology into PACS (in revision).}
 \end{enumerate}
 
 \cvsection{Presentations}
 
+\emph{Presenting author underlined.}
+
+\cvsubsection{Oral}
+
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[O-1]{\underline{\textbf{Liu, S.}} \href{https://simonliu.dev/cv/files/liu\_applications\_of\_dl\_talk.pdf}{Applications of deep learning in medical genetics.} \emph{Oral presentation at the NHGRI Medical Genetics Branch meeting}; Bethesda, MD. June 2023.}
+\end{enumerate}
+
 \cvsubsection{Posters}
 
-\begin{enumerate}
-\publication{Hsu, D., \textbf{Liu, S.}, Lu, A. Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation. \emph{Poster presented by D. Hsu at the 2025 Association for Research in Vision and Ophthalmology}; Salt Lake City, UT.}
-\publication{\textbf{Liu, S.} Applications of deep learning in medical genetics. \emph{Presented at the June 2023 NHGRI Medical Genetics Branch meeting}; Bethesda, MD.}
-\publication{\textbf{Liu, S.}, Ledgister Hanchard, S., Dwyer, M. C., Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. Applications of deep learning in medical genetics. \emph{Poster presented at the 2022 NIH Virtual Postbac Poster Day}; Bethesda, MD.}
+\begin{enumerate}[leftmargin=2.7em,labelsep=0.6em]
+
+\publication[P-4]{\underline{\textbf{Liu, S.}}, \& Gabel, E. \href{https://simonliu.dev/cv/files/liu\_residual\_sedative\_burden.pdf}{Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose.} \emph{ePoster presented at ASA ANESTHESIOLOGY 2026}; San Diego, CA. October 2026. Poster A1249.}
+\publication[P-3]{Kazah, I., Ryder, M., Maynard, K., \underline{\textbf{Liu, S.}}, Sher, T., \& Hernandez-Morgan, M. \href{https://simonliu.dev/cv/files/liu\_dei\_residency\_websites.pdf}{Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites.} \emph{Poster presented at ASA ANESTHESIOLOGY 2026}; San Diego, CA. October 2026. Poster A2019.}
+\publication[P-2]{\underline{Hsu, D.}, \textbf{Liu, S.}, \& Lu, A. \href{https://simonliu.dev/cv/files/liu\_expansion\_following\_legislation.pdf}{Dramatic expansion in optometry laser capsulotomy and selective laser trabeculoplasty following scope of practice legislation.} \emph{Poster presented at the 2025 Association for Research in Vision and Ophthalmology Annual Meeting}; Salt Lake City, UT. May 2025.}
+\publication[P-1]{\underline{\textbf{Liu, S.}}, Ledgister Hanchard, S., Dwyer, M. C., Hu, P., Tekendo-Ngongang, C., Waikel, R. L., Duong, D., \& Solomon, B. D. \href{https://simonliu.dev/cv/files/liu\_applications\_of\_dl\_poster.pdf}{Applications of deep learning in medical genetics.} \emph{Poster presented at the 2022 NIH Virtual Postbac Poster Day}; Bethesda, MD. April 2022.}
 \end{enumerate}
 
 \cvsection{Selected Press}
 
-\begin{enumerate}
-\publication{\textbf{Liu, S.} Making an Impact Outside of the Laboratory. Office of Equity, Diversity, and Inclusion, NIH. May 1, 2023.}
-\publication{Stokel-Walker, C. Amid war fears, archivists are racing to preserve Ukraine's internet. Input Mag. February 18, 2022.}
-\publication{Calabresi, K. Interview with Health 3D. TCO Labs. November 20, 2019.}
-\publication{Sangana, N. Conference highlights student startups in Md. The Johns Hopkins News-Letter. November 15, 2018.}
-\end{enumerate}
+\cventry{2023}{\textbf{Liu, S.} \href{http://web.archive.org/web/20241221035123/https://edi.nih.gov/the-EDI-pulse-blog/making-impact-outside-laboratory}{Making an Impact Outside of the Laboratory.} Office of Equity, Diversity, and Inclusion, NIH. May 1, 2023.}
+
+\cventry{2022}{Stokel-Walker, C. \href{https://www.inputmag.com/culture/archiveteam-warrior-ukraine-websites-internet-russia-cyberattacks}{Amid war fears, archivists are racing to preserve Ukraine's internet.} Input Mag. February 18, 2022.}
+
+\cventry{2019}{Calabresi, K. \href{https://medium.com/tco-labs-blog/health3d-interview-a933be08cfc4}{Interview with Health 3D.} TCO Labs. November 20, 2019.}
+
+\cventry{2018}{Sangana, N. \href{https://www.jhunewsletter.com/article/2018/11/conference-highlights-student-startups-in-md}{Conference highlights student startups in Md.} The Johns Hopkins News-Letter. November 15, 2018.}
+
 
 \end{document}

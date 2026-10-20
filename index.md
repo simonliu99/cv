@@ -328,4 +328,4 @@ Based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: July 12, 2026<br/><br/>
+<br/>Last updated: October 20, 2026<br/><br/>
