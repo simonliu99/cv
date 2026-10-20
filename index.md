@@ -102,7 +102,7 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 
 ## Grants and Funding
 
-`2026`
+`05/2026`
 **Medical Student Research Grant**, *RSNA*
 - Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the EMR
 - Grant number: MSG26-306
@@ -110,7 +110,7 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 - Amount: $6,000
 - Role: Principal Investigator
 
-`2020`
+`11/2020`
 **Provost’s Undergraduate Research Award**, *JHU*
 - *Project: Implementing Electronic Beam Steering in an Implantable Ultrasound Device*
 [[news](https://www.cs.jhu.edu/2021/01/05/computer-science-majors-win-2020-pura-awards/)]
