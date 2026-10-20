@@ -62,6 +62,12 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 **Laboratory Assistant**, *STAR-ORC, University of Maryland School of Medicine*, Baltimore, MD.
 - Mentors: [Junfang Wu, BM, PhD](https://www.medschool.umaryland.edu/profiles/Wu-Junfang/) and [Niaz Khan, MD, PhD](https://pathology.med.upenn.edu/department/people/1818/niaz-khan)
 
+### Teaching
+
+`08/2020 - 05/2021`
+**Course Assistant**, *Department of Computer Science, JHU*, Baltimore, MD.
+- Instructor: [Kwame Kutten, PhD](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
+
 ### Leadership
 
 `04/2026 - present`
@@ -88,19 +94,11 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 `05/2019 - 11/2019`
 **Pledge Educator**, [*Alpha Kappa Psi, Rho Psi Chapter*](https://akpsi.students.jh.edu/)
 
-### Volunteering
+### Community Service
 
 `10/2021 - 07/2023`
 **Care Coordinator**, [*Pan Asian Volunteer Health Clinic*](https://www.ccacchealth.org/), [*CCACC*](https://www.ccacc-dc.org/Default_en.aspx), Gaithersburg, MD.
 - Mentors: [Mo-Ping Chow, MD, and Yaoyao Zhu, MD, PhD](https://www.ccacchealth.org/team)
-- Received Outstanding Volunteer Award and President’s Volunteer Service Award
-
-### Teaching
-
-`08/2020 - 05/2021`
-**Course Assistant**, *Department of Computer Science, JHU*, Baltimore, MD.
-- Instructor: [Kwame Kutten, PhD](https://www.bme.jhu.edu/people/faculty/kwame-kutten/)
-
 
 ## Grants and Funding
 
