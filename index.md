@@ -272,7 +272,7 @@ Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., 
 
 ## Presentations
 
-*Presenting author underlined.*
+*Presenting authors underlined.*
 
 ### Oral
 
@@ -288,7 +288,7 @@ Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., 
 [[pdf](files/liu_residual_sedative_burden.pdf)]
 
 `P-3`
-Kazah, I., Ryder, M., Maynard, K., <u><strong>Liu, S.</strong></u>, Sher, T., & Hernandez-Morgan, M. Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *Poster presented at ASA ANESTHESIOLOGY 2026*; San Diego, CA. October 2026. Poster A2019.
+<u>Kazah, I.</u>, <u>Ryder, M.</u>, Maynard, K., <u><strong>Liu, S.</strong></u>, Sher, T., & Hernandez-Morgan, M. Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *Poster presented at ASA ANESTHESIOLOGY 2026*; San Diego, CA. October 2026. Poster A2019.
 [[pdf](files/liu_dei_residency_websites.pdf)]
 
 `P-2`
