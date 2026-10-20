@@ -103,11 +103,12 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 ## Grants and Funding
 
 `2026`
-**Medical Student Research Grant**, *Radiological Society of North America* (MSG26-306)
+**Medical Student Research Grant**, *RSNA*
 - Enhancing Diagnostic Efficiency: An Automated Framework for Intelligent Radiation Dose Visualization in the EMR
+- Grant number: MSG26-306
 - Mentor: Ricky R. Savjani, MD, PhD
 - Amount: $6,000
-- Role: PI
+- Role: Principal Investigator
 
 `2020`
 **Provost’s Undergraduate Research Award**, *JHU*
