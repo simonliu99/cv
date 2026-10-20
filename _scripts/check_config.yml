@@ -1,0 +1,4 @@
+# Used by _scripts/check.sh only: keeps local build output out of the check site.
+exclude:
+  - build
+  - _site

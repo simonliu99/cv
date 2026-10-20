@@ -21,3 +21,13 @@ The local PDF is written to `build/liu_cv.pdf`. To also copy it to `liu_cv.pdf` 
 ```sh
 make public-pdf
 ```
+
+## Checks
+
+Before committing, run:
+
+```sh
+make check
+```
+
+It builds the PDF and the site, and fails on LaTeX overfull boxes or undefined references, a `files/` link with no file, a file in `files/` that nothing links, or different update dates in `index.md` and `latex/liu_cv.tex`.
