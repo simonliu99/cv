@@ -162,14 +162,6 @@ A list is also available on [Google Scholar](https://scholar.google.com/citation
 
 *\*Co-first authors. ‡Co-senior authors.*
 
-### Manuscripts
-
-Bang, C., Jank, E., Raj, V. B., Solomon, J., **Liu, S.**, Oh, C., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Qi, X. S., Kadambi, A., Lamb, J., Sung, K., & Savjani, R. R. (2026). Transforming Radiation Treatment History into Clinically Accessible Information for Multidisciplinary Oncology Care: Development and Evaluation of Rad-SNAP. *The Lancet Digital Health* (submitted).
-
-Zhao, C. Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in Rhinoplasty: Authorship Demographics and Publication Patterns in Rhinoplasty Research. *Aesthetic Surgery Journal* (submitted).
-
-Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). RAD-Drop: Radiation Dose Routing for Oncology into PACS. (in revision).
-
 ### Journal Articles
 
 `J-12`
@@ -232,7 +224,7 @@ Li, Y., Ritzel, R. M., Khan, N., Cao, T., He, J., Lei, Z., Matyas, J. J., Sabirz
 Delayed microglial depletion after spinal cord injury reduces chronic inflammation and neurodegeneration in the brain and improves neurological recovery in male mice. *Theranostics, 10*(25), 11376–11403.
 [[doi](https://doi.org/10.7150/thno.49199)] [[pmid](https://pubmed.ncbi.nlm.nih.gov/33052221/)] [[pdf](files/liu_delayed_microglial_depletion.pdf)]
 
-### Conference Papers
+### Conference Proceedings
 
 `C-1`
 Kenet, A., Mahadevan, E., Elangovan, S., Yan, J., Siddiq, K., **Liu, S.**, Ladwa, A., Narayanan, R., Dakkak, J., Benassi, T., Ng, K., & Manbachi, A. (2020).
@@ -241,9 +233,11 @@ Flexible piezoelectric sensor for real-time image-guided colonoscopies: a soluti
 
 ### Meeting Abstracts
 
-**Liu, S.**, & Gabel, E. (2026). Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. *Submitted to ASA ANESTHESIOLOGY 2026*.
+`A-6`
+**Liu, S.**, & Gabel, E. (2026). Drug-specific PK-informed residual sedative burden model better explains time to anesthesia release than cumulative dose. *ASA ANESTHESIOLOGY 2026* (accepted).
 
-Kazah, I., Ryder, M., Maynard, K., **Liu, S.**, Sher, T., & Hernandez-Morgan, M. (2026). Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *Submitted to ASA ANESTHESIOLOGY 2026*.
+`A-5`
+Kazah, I., Ryder, M., Maynard, K., **Liu, S.**, Sher, T., & Hernandez-Morgan, M. (2026). Geographic variation in diversity, equity, and inclusion content across United States anesthesiology residency program websites. *ASA ANESTHESIOLOGY 2026* (accepted).
 
 `A-4`
 Hsu, D., **Liu, S.**, & Lu, A. (2025).
@@ -265,6 +259,16 @@ Hutfless, S. M., Chen, P.-H., Miller, S. D., Josephson, M., Joseph, S., Urrunaga
 Would K50\* by any other name smell so sweet? A systematic review of claims-based Crohn's disease case definitions. *Gastroenterology, 158*(6), S-408.
 [[doi](https://doi.org/10.1016/s0016-5085%2820%2931712-1)] [[pdf](files/liu_k50_crohns.pdf)]
 
+### Manuscripts
+
+`M-3`
+Bang, C., Jank, E., Raj, V. B., Solomon, J., **Liu, S.**, Oh, C., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Qi, X. S., Kadambi, A., Lamb, J., Sung, K., & Savjani, R. R. (2026). Transforming radiation treatment history into clinically accessible information for multidisciplinary oncology care: Development and evaluation of Rad-SNAP (submitted).
+
+`M-2`
+Zhao, C. Z., Wu, Y., **Liu, S.**, Molina-Vega, J., Ibrahim, Y., Segura-Bermudez, J., Khetpal, S., & Roostaeian, J. (2026). Equity in rhinoplasty: Authorship demographics and publication patterns in rhinoplasty research (submitted).
+
+`M-1`
+Raj, V. B.\*, Jank, E.\*, Bang, C.\*, Solomon, J., **Liu, S.**, Oh, C., Ru, M., Liu, E. Y., Lane, M., Pandey, L., Luximon, D., Hink, J., Pijanowski, J., Abdulkadir, Y., Neylon, J., O’Connell, D., Tenn, S., Agazaryan, N., Salamon, N., Motamedi, K., Low, D., Qi, X. S., Kadambi, A., Lamb, J., Sung, K.‡, & Savjani, R. R.‡ (2026). RAD-Drop: Radiation dose routing for oncology into PACS (in revision).
 
 ## Presentations
 
