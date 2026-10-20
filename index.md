@@ -15,7 +15,7 @@ Medical Student, David Geffen School of Medicine at UCLA.
 
 ## Summary
 
-I am an MS4 at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services questions, with the goal of improving clinical decision-making and patient outcomes.
+I am a fourth-year medical student at the David Geffen School of Medicine at UCLA with a background in biomedical engineering and computer science. My research applies clinical informatics and computational methods to perioperative care, imaging workflows, and health services research.
 
 
 ## Education
