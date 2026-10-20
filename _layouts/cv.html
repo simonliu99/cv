@@ -27,6 +27,56 @@
       link.setAttribute('target', '_blank');
       link.setAttribute('rel', 'noopener noreferrer');
     });
+
+    // Safari ignores break-after: avoid, so print keeps each heading with the
+    // entry below it, and each entry with its detail list, in one unbreakable box.
+    function holdsNext(element, grouping) {
+      var next = element.nextElementSibling;
+      if (!next) {
+        return false;
+      }
+      if (/^H[2-4]$/.test(element.tagName)) {
+        return true;
+      }
+      if (element.tagName !== 'P') {
+        return false;
+      }
+      if (next.tagName === 'UL') {
+        return true;
+      }
+      // A note between a heading and its first entry, such as a legend.
+      return grouping && !element.querySelector('code') && !/^H[12]$/.test(next.tagName);
+    }
+
+    window.addEventListener('beforeprint', function() {
+      var content = document.getElementById('content');
+      var group = [];
+      Array.prototype.slice.call(content.children).forEach(function(element) {
+        var grouping = group.length > 0;
+        group.push(element);
+        if (holdsNext(element, grouping)) {
+          return;
+        }
+        if (group.length > 1) {
+          var box = document.createElement('div');
+          box.className = 'cv-print-group';
+          content.insertBefore(box, group[0]);
+          group.forEach(function(member) {
+            box.appendChild(member);
+          });
+        }
+        group = [];
+      });
+    });
+
+    window.addEventListener('afterprint', function() {
+      document.querySelectorAll('#content > .cv-print-group').forEach(function(box) {
+        while (box.firstChild) {
+          box.parentNode.insertBefore(box.firstChild, box);
+        }
+        box.parentNode.removeChild(box);
+      });
+    });
   </script>
 </body>
 </html>

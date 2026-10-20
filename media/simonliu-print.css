@@ -72,6 +72,10 @@ p:has(+ ul) {
 	break-after: avoid;
 }
 
+.cv-print-group {
+	break-inside: avoid;
+}
+
 code {
 	font-size: 90%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
