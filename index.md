@@ -7,10 +7,9 @@ title: Curriculum Vitae
 Medical Student, David Geffen School of Medicine at UCLA.
 
 <div id="webaddress">
-  <a href="mailto:simonliu@mednet.ucla.edu"><i class="fas fa-envelope"></i> simonliu@mednet.ucla.edu</a> |
-  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> simonliu99</a> |
-  <a href="https://www.linkedin.com/in/simonliu99/"><i class="fab fa-linkedin"></i> simonliu99</a> |
-  <a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en"><i class="fas fa-book"></i> g.scholar</a>
+  <a href="mailto:cv@simonliu.dev"><i class="fas fa-envelope"></i> cv@simonliu.dev</a>
+  <a href="https://simonliu.dev"><i class="fas fa-globe"></i> simonliu.dev</a>
+  <a href="https://github.com/simonliu99"><i class="fab fa-github"></i> github.com/simonliu99</a>
 </div>
 
 
