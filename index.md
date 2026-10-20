@@ -25,8 +25,9 @@ I am a fourth-year medical student at the David Geffen School of Medicine at UCL
 
 `2017 - 2021`
 **Bachelor of Science, Biomedical Engineering**, *Johns Hopkins University*, Baltimore, MD.
-- Also completed B.S. major requirements for Computer Science
-- Honors: Upsilon Pi Epsilon, Dean's list, general & BME+CS departmental honors
+- Second major: Computer Science
+- General honors; departmental honors in both majors
+- Dean's List
 
 
 ## Experience
