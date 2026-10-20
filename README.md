@@ -40,8 +40,8 @@ It builds the PDF and the site, and fails on LaTeX overfull boxes or undefined r
 
 ## Workflow
 
-- Track each update cycle in one issue titled `<mon yyyy> update`, for example `oct 2026 update`. The body is a `- [ ]` checklist with one short lowercase item per change. An item that adds a work includes its full citation.
-- Add unplanned changes to the open cycle's issue before committing them.
+- Track each update cycle in one issue titled `<mon yyyy> update`, for example `oct 2026 update`. The body is a `- [ ]` checklist with one short lowercase item per new entry, larger change or fix to the content since the last update. An item that adds a work includes its full citation.
+- Small fixes and wording changes need no issue item.
 - List ideas not yet planned under `considerations:` in the current issue, and carry unfinished ones into the next cycle's issue.
 - Tick each item when its commit lands. Close an issue only when every item is ticked or moved to the next cycle.
 - Run `make check` before every commit. A commit that changes `latex/liu_cv.tex` also runs `make public-pdf` and includes the rebuilt `liu_cv.pdf`.
@@ -49,7 +49,7 @@ It builds the PDF and the site, and fails on LaTeX overfull boxes or undefined r
 
 ### Commit messages
 
-One line in the form `type(scope): description`, with the description lowercase and imperative. End it with `, #N` while issue `#N` is in progress, or `, closes #N` in the commit that completes it.
+One line in the form `type(scope): description`, with the description lowercase and imperative. End it with `, #N` while issue `#N` is in progress, or `, closes #N` in the commit that completes it. A commit with no issue item has no suffix.
 
 | Type | Use for | Example |
 |---|---|---|
